@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\bin\Debug\net8.0\NonaAula.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\bin\Debug\net8.0\NonaAula.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\bin\Debug\net8.0\NonaAula.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\bin\Debug\net8.0\NonaAula.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\bin\Debug\net8.0\NonaAula.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\NonaAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\NonaAula.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\NonaAula.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\NonaAula.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\NonaAula.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\refint\NonaAula.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\NonaAula.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\NonaAula.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\NonaAula\NonaAula\obj\Debug\net8.0\ref\NonaAula.dll

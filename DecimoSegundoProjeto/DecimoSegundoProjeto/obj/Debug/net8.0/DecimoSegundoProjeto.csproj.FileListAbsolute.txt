@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\bin\Debug\net8.0\DecimoSegundoProjeto.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\bin\Debug\net8.0\DecimoSegundoProjeto.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\bin\Debug\net8.0\DecimoSegundoProjeto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\bin\Debug\net8.0\DecimoSegundoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\bin\Debug\net8.0\DecimoSegundoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\DecimoSegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\DecimoSegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\DecimoSegundoProjeto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\DecimoSegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\DecimoSegundoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\refint\DecimoSegundoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\DecimoSegundoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\DecimoSegundoProjeto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\DecimoSegundoProjeto\DecimoSegundoProjeto\obj\Debug\net8.0\ref\DecimoSegundoProjeto.dll

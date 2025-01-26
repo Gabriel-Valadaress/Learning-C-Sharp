@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\refint\OitavoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\ref\OitavoProjeto.dll

@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\bin\Debug\net8.0\DecimoTerceiro.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\bin\Debug\net8.0\DecimoTerceiro.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\bin\Debug\net8.0\DecimoTerceiro.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\bin\Debug\net8.0\DecimoTerceiro.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\bin\Debug\net8.0\DecimoTerceiro.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\DecimoTerceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\DecimoTerceiro.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\DecimoTerceiro.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\DecimoTerceiro.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\DecimoTerceiro.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\refint\DecimoTerceiro.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\DecimoTerceiro.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\DecimoTerceiro.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiro\DecimoTerceiro\obj\Debug\net8.0\ref\DecimoTerceiro.dll

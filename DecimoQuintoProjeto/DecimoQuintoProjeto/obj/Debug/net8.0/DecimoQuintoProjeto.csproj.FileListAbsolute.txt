@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\bin\Debug\net8.0\DecimoQuintoProjeto.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\bin\Debug\net8.0\DecimoQuintoProjeto.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\bin\Debug\net8.0\DecimoQuintoProjeto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\bin\Debug\net8.0\DecimoQuintoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\bin\Debug\net8.0\DecimoQuintoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\DecimoQuintoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\DecimoQuintoProjeto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\DecimoQuintoProjeto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\DecimoQuintoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\DecimoQuintoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\refint\DecimoQuintoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\DecimoQuintoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\DecimoQuintoProjeto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoQuintoProjeto\DecimoQuintoProjeto\obj\Debug\net8.0\ref\DecimoQuintoProjeto.dll

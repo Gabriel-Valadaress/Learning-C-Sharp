@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\refint\SetimoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\ref\SetimoProjeto.dll

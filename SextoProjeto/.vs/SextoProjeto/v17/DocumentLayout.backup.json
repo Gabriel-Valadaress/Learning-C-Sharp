@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp-udemy\\SextoProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1316545C-C85B-4D62-8E7A-4A06915CCB2A}|SextoProjeto\\SextoProjeto.csproj|c:\\users\\gabriel\\desktop\\programacao\\c-sharp-udemy\\sextoprojeto\\sextoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1316545C-C85B-4D62-8E7A-4A06915CCB2A}|SextoProjeto\\SextoProjeto.csproj|solutionrelative:sextoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp-udemy\\SextoProjeto\\SextoProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "SextoProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp-udemy\\SextoProjeto\\SextoProjeto\\Program.cs",
+              "RelativeToolTip": "SextoProjeto\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:58:44.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

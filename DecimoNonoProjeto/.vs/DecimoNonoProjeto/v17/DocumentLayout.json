@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp\\DecimoNonoProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDD3B18-8142-4919-8C78-B94E4BC196A9}|DecimoNonoProjeto\\DecimoNonoProjeto.csproj|c:\\users\\gabriel\\desktop\\programacao\\c-sharp\\decimononoprojeto\\decimononoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDD3B18-8142-4919-8C78-B94E4BC196A9}|DecimoNonoProjeto\\DecimoNonoProjeto.csproj|solutionrelative:decimononoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDD3B18-8142-4919-8C78-B94E4BC196A9}|DecimoNonoProjeto\\DecimoNonoProjeto.csproj|c:\\users\\gabriel\\desktop\\programacao\\c-sharp\\decimononoprojeto\\decimononoprojeto\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDD3B18-8142-4919-8C78-B94E4BC196A9}|DecimoNonoProjeto\\DecimoNonoProjeto.csproj|solutionrelative:decimononoprojeto\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp\\DecimoNonoProjeto\\DecimoNonoProjeto\\Aluno.cs",
+              "RelativeDocumentMoniker": "DecimoNonoProjeto\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp\\DecimoNonoProjeto\\DecimoNonoProjeto\\Aluno.cs",
+              "RelativeToolTip": "DecimoNonoProjeto\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:00:41.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp\\DecimoNonoProjeto\\DecimoNonoProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "DecimoNonoProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp\\DecimoNonoProjeto\\DecimoNonoProjeto\\Program.cs",
+              "RelativeToolTip": "DecimoNonoProjeto\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:09:59.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

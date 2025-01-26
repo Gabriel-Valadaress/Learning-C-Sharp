@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\bin\Debug\net8.0\DecimoTerceiroEx2.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\bin\Debug\net8.0\DecimoTerceiroEx2.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\bin\Debug\net8.0\DecimoTerceiroEx2.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\bin\Debug\net8.0\DecimoTerceiroEx2.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\bin\Debug\net8.0\DecimoTerceiroEx2.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\DecimoTerceiroEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\DecimoTerceiroEx2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\DecimoTerceiroEx2.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\DecimoTerceiroEx2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\DecimoTerceiroEx2.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\refint\DecimoTerceiroEx2.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\DecimoTerceiroEx2.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\DecimoTerceiroEx2.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\DecimoTerceiroEx2\DecimoTerceiroEx2\obj\Debug\net8.0\ref\DecimoTerceiroEx2.dll

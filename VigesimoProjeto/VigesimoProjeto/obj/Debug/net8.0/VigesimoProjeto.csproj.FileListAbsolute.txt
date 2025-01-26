@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\bin\Debug\net8.0\VigesimoProjeto.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\bin\Debug\net8.0\VigesimoProjeto.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\bin\Debug\net8.0\VigesimoProjeto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\bin\Debug\net8.0\VigesimoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\bin\Debug\net8.0\VigesimoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\VigesimoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\VigesimoProjeto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\VigesimoProjeto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\VigesimoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\VigesimoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\refint\VigesimoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\VigesimoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\VigesimoProjeto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp\VigesimoProjeto\VigesimoProjeto\obj\Debug\net8.0\ref\VigesimoProjeto.dll

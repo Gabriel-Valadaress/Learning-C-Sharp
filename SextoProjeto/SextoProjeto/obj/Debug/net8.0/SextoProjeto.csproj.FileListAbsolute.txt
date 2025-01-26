@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.exe
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.deps.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\refint\SextoProjeto.dll
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.pdb
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programacao\c-sharp-udemy\SextoProjeto\SextoProjeto\obj\Debug\net8.0\ref\SextoProjeto.dll

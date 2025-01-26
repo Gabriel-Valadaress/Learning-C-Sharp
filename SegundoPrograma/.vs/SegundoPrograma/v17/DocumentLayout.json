@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp-udemy\\SegundoPrograma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18DB35B-ADCA-4E7E-8800-D6A2A6D66BAD}|SegundoPrograma\\SegundoPrograma.csproj|c:\\users\\gabriel\\desktop\\programacao\\c-sharp-udemy\\segundoprograma\\segundoprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18DB35B-ADCA-4E7E-8800-D6A2A6D66BAD}|SegundoPrograma\\SegundoPrograma.csproj|solutionrelative:segundoprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp-udemy\\SegundoPrograma\\SegundoPrograma\\Program.cs",
+              "RelativeDocumentMoniker": "SegundoPrograma\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Programacao\\c-sharp-udemy\\SegundoPrograma\\SegundoPrograma\\Program.cs",
+              "RelativeToolTip": "SegundoPrograma\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:28:24.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
