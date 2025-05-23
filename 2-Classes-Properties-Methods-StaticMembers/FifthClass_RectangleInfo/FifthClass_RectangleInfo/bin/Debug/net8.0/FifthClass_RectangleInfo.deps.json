@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FifthClass_RectangleInfo/1.0.0": {
+        "runtime": {
+          "FifthClass_RectangleInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FifthClass_RectangleInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FourthClass_StockControll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{111A0101-D4D7-412F-9D21-501506600B9C}|FourthClass_StockControll\\FourthClass_StockControll.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\classes-properties-methods-staticmembers\\fourthclass_stockcontroll\\fourthclass_stockcontroll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111A0101-D4D7-412F-9D21-501506600B9C}|FourthClass_StockControll\\FourthClass_StockControll.csproj|solutionrelative:fourthclass_stockcontroll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111A0101-D4D7-412F-9D21-501506600B9C}|FourthClass_StockControll\\FourthClass_StockControll.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\classes-properties-methods-staticmembers\\fourthclass_stockcontroll\\fourthclass_stockcontroll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111A0101-D4D7-412F-9D21-501506600B9C}|FourthClass_StockControll\\FourthClass_StockControll.csproj|solutionrelative:fourthclass_stockcontroll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FourthClass_StockControll\\FourthClass_StockControll\\Product.cs",
+              "RelativeDocumentMoniker": "FourthClass_StockControll\\Product.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FourthClass_StockControll\\FourthClass_StockControll\\Product.cs",
+              "RelativeToolTip": "FourthClass_StockControll\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:55:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FourthClass_StockControll\\FourthClass_StockControll\\Program.cs",
+              "RelativeDocumentMoniker": "FourthClass_StockControll\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FourthClass_StockControll\\FourthClass_StockControll\\Program.cs",
+              "RelativeToolTip": "FourthClass_StockControll\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:52:08.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

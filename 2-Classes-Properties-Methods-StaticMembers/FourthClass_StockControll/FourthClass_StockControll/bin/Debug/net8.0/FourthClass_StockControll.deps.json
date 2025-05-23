@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FourthClass_StockControll/1.0.0": {
+        "runtime": {
+          "FourthClass_StockControll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FourthClass_StockControll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

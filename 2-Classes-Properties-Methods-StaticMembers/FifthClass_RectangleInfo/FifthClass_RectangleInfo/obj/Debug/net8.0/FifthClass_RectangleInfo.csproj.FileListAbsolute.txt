@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\bin\Debug\net8.0\FifthClass_RectangleInfo.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\bin\Debug\net8.0\FifthClass_RectangleInfo.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\bin\Debug\net8.0\FifthClass_RectangleInfo.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\bin\Debug\net8.0\FifthClass_RectangleInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\bin\Debug\net8.0\FifthClass_RectangleInfo.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\FifthClass_RectangleInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\FifthClass_RectangleInfo.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\FifthClass_RectangleInfo.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\FifthClass_RectangleInfo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\FifthClass_RectangleInfo.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\FifthClass_RectangleInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\refint\FifthClass_RectangleInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\FifthClass_RectangleInfo.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\FifthClass_RectangleInfo.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\FifthClass_RectangleInfo\FifthClass_RectangleInfo\obj\Debug\net8.0\ref\FifthClass_RectangleInfo.dll

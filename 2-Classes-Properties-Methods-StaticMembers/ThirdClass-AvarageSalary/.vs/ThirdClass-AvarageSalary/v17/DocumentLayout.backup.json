@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\ThirdClass-AvarageSalary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F8A387-19FF-4335-A5C5-CCAF8AF26F69}|ThirdClass-AvarageSalary\\ThirdClass-AvarageSalary.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\classes-properties-methods-staticmembers\\thirdclass-avaragesalary\\thirdclass-avaragesalary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F8A387-19FF-4335-A5C5-CCAF8AF26F69}|ThirdClass-AvarageSalary\\ThirdClass-AvarageSalary.csproj|solutionrelative:thirdclass-avaragesalary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F8A387-19FF-4335-A5C5-CCAF8AF26F69}|ThirdClass-AvarageSalary\\ThirdClass-AvarageSalary.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\classes-properties-methods-staticmembers\\thirdclass-avaragesalary\\thirdclass-avaragesalary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F8A387-19FF-4335-A5C5-CCAF8AF26F69}|ThirdClass-AvarageSalary\\ThirdClass-AvarageSalary.csproj|solutionrelative:thirdclass-avaragesalary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\ThirdClass-AvarageSalary\\ThirdClass-AvarageSalary\\Employee.cs",
+              "RelativeDocumentMoniker": "ThirdClass-AvarageSalary\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\ThirdClass-AvarageSalary\\ThirdClass-AvarageSalary\\Employee.cs",
+              "RelativeToolTip": "ThirdClass-AvarageSalary\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:25:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\ThirdClass-AvarageSalary\\ThirdClass-AvarageSalary\\Program.cs",
+              "RelativeDocumentMoniker": "ThirdClass-AvarageSalary\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\ThirdClass-AvarageSalary\\ThirdClass-AvarageSalary\\Program.cs",
+              "RelativeToolTip": "ThirdClass-AvarageSalary\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:24:30.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FifthClass_RectangleInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1957E010-0E29-4708-8E40-E88A8FF20F8B}|FifthClass_RectangleInfo\\FifthClass_RectangleInfo.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\classes-properties-methods-staticmembers\\fifthclass_rectangleinfo\\fifthclass_rectangleinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1957E010-0E29-4708-8E40-E88A8FF20F8B}|FifthClass_RectangleInfo\\FifthClass_RectangleInfo.csproj|solutionrelative:fifthclass_rectangleinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1957E010-0E29-4708-8E40-E88A8FF20F8B}|FifthClass_RectangleInfo\\FifthClass_RectangleInfo.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\classes-properties-methods-staticmembers\\fifthclass_rectangleinfo\\fifthclass_rectangleinfo\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1957E010-0E29-4708-8E40-E88A8FF20F8B}|FifthClass_RectangleInfo\\FifthClass_RectangleInfo.csproj|solutionrelative:fifthclass_rectangleinfo\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FifthClass_RectangleInfo\\FifthClass_RectangleInfo\\Rectangle.cs",
+              "RelativeDocumentMoniker": "FifthClass_RectangleInfo\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FifthClass_RectangleInfo\\FifthClass_RectangleInfo\\Rectangle.cs",
+              "RelativeToolTip": "FifthClass_RectangleInfo\\Rectangle.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBoAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:34:10.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FifthClass_RectangleInfo\\FifthClass_RectangleInfo\\Program.cs",
+              "RelativeDocumentMoniker": "FifthClass_RectangleInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Classes-Properties-Methods-StaticMembers\\FifthClass_RectangleInfo\\FifthClass_RectangleInfo\\Program.cs",
+              "RelativeToolTip": "FifthClass_RectangleInfo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:30:35.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\bin\Debug\net9.0\ThirdClass-AvarageSalary.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\bin\Debug\net9.0\ThirdClass-AvarageSalary.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\bin\Debug\net9.0\ThirdClass-AvarageSalary.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\bin\Debug\net9.0\ThirdClass-AvarageSalary.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\bin\Debug\net9.0\ThirdClass-AvarageSalary.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ThirdClass-AvarageSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ThirdClass-AvarageSalary.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ThirdClass-AvarageSalary.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ThirdClass-AvarageSalary.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ThirdClass-AvarageSalary.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ThirdClass-AvarageSalary.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\refint\ThirdClass-AvarageSalary.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ThirdClass-AvarageSalary.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ThirdClass-AvarageSalary.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Classes-Properties-Methods-StaticMembers\ThirdClass-AvarageSalary\ThirdClass-AvarageSalary\obj\Debug\net9.0\ref\ThirdClass-AvarageSalary.dll
