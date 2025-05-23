@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\CarRent-WithInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\CarRent-WithInterface.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\CarRent-WithInterface.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\CarRent-WithInterface.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\CarRent-WithInterface.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\bin\Debug\net8.0\CarRent-WithInterface.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\bin\Debug\net8.0\CarRent-WithInterface.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\bin\Debug\net8.0\CarRent-WithInterface.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\bin\Debug\net8.0\CarRent-WithInterface.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\bin\Debug\net8.0\CarRent-WithInterface.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\CarRent-WithInterface.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\refint\CarRent-WithInterface.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\CarRent-WithInterface.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\CarRent-WithInterface.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithInterface\CarRent-WithInterface\obj\Debug\net8.0\ref\CarRent-WithInterface.dll

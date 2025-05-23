@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\bin\Debug\net8.0\CarRent-WithoutInterface.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\bin\Debug\net8.0\CarRent-WithoutInterface.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\bin\Debug\net8.0\CarRent-WithoutInterface.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\bin\Debug\net8.0\CarRent-WithoutInterface.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\bin\Debug\net8.0\CarRent-WithoutInterface.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\CarRent-WithoutInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\CarRent-WithoutInterface.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\CarRent-WithoutInterface.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\CarRent-WithoutInterface.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\CarRent-WithoutInterface.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\CarRent-WithoutInterface.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\refint\CarRent-WithoutInterface.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\CarRent-WithoutInterface.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\CarRent-WithoutInterface.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\CarRent-WithoutInterface\CarRent-WithoutInterface\obj\Debug\net8.0\ref\CarRent-WithoutInterface.dll

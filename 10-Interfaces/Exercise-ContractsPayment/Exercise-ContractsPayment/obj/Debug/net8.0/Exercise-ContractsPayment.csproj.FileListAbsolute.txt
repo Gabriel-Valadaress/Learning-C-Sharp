@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\Exercise-ContractsPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\Exercise-ContractsPayment.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\Exercise-ContractsPayment.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\Exercise-ContractsPayment.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\Exercise-ContractsPayment.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\bin\Debug\net8.0\Exercise-ContractsPayment.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\bin\Debug\net8.0\Exercise-ContractsPayment.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\bin\Debug\net8.0\Exercise-ContractsPayment.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\bin\Debug\net8.0\Exercise-ContractsPayment.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\bin\Debug\net8.0\Exercise-ContractsPayment.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\Exercise-ContractsPayment.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\refint\Exercise-ContractsPayment.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\Exercise-ContractsPayment.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\Exercise-ContractsPayment.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\10-Interfaces\Exercise-ContractsPayment\Exercise-ContractsPayment\obj\Debug\net8.0\ref\Exercise-ContractsPayment.dll
