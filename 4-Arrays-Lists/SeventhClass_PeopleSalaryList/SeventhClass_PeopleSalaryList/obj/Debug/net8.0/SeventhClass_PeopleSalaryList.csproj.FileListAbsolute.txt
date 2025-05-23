@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\bin\Debug\net8.0\SeventhClass_PeopleSalaryList.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\bin\Debug\net8.0\SeventhClass_PeopleSalaryList.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\bin\Debug\net8.0\SeventhClass_PeopleSalaryList.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\bin\Debug\net8.0\SeventhClass_PeopleSalaryList.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\bin\Debug\net8.0\SeventhClass_PeopleSalaryList.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\SeventhClass_PeopleSalaryList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\SeventhClass_PeopleSalaryList.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\SeventhClass_PeopleSalaryList.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\SeventhClass_PeopleSalaryList.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\SeventhClass_PeopleSalaryList.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\SeventhClass_PeopleSalaryList.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\refint\SeventhClass_PeopleSalaryList.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\SeventhClass_PeopleSalaryList.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\SeventhClass_PeopleSalaryList.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SeventhClass_PeopleSalaryList\SeventhClass_PeopleSalaryList\obj\Debug\net8.0\ref\SeventhClass_PeopleSalaryList.dll

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\bin\Debug\net8.0\SixthClass_BasicLists.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\bin\Debug\net8.0\SixthClass_BasicLists.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\bin\Debug\net8.0\SixthClass_BasicLists.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\bin\Debug\net8.0\SixthClass_BasicLists.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\bin\Debug\net8.0\SixthClass_BasicLists.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\SixthClass_BasicLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\SixthClass_BasicLists.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\SixthClass_BasicLists.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\SixthClass_BasicLists.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\SixthClass_BasicLists.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\SixthClass_BasicLists.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\refint\SixthClass_BasicLists.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\SixthClass_BasicLists.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\SixthClass_BasicLists.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SixthClass_BasicLists\SixthClass_BasicLists\obj\Debug\net8.0\ref\SixthClass_BasicLists.dll

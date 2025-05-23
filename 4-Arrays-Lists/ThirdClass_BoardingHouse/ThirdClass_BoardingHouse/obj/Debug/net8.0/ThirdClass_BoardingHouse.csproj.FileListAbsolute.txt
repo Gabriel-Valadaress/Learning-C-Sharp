@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\bin\Debug\net8.0\ThirdClass_BoardingHouse.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\bin\Debug\net8.0\ThirdClass_BoardingHouse.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\bin\Debug\net8.0\ThirdClass_BoardingHouse.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\bin\Debug\net8.0\ThirdClass_BoardingHouse.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\bin\Debug\net8.0\ThirdClass_BoardingHouse.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ThirdClass_BoardingHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ThirdClass_BoardingHouse.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ThirdClass_BoardingHouse.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ThirdClass_BoardingHouse.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ThirdClass_BoardingHouse.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ThirdClass_BoardingHouse.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\refint\ThirdClass_BoardingHouse.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ThirdClass_BoardingHouse.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ThirdClass_BoardingHouse.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\ThirdClass_BoardingHouse\ThirdClass_BoardingHouse\obj\Debug\net8.0\ref\ThirdClass_BoardingHouse.dll

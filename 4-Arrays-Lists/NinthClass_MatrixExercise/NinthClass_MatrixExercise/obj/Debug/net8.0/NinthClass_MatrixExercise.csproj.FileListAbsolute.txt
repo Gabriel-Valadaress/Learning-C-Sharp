@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\bin\Debug\net8.0\NinthClass_MatrixExercise.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\bin\Debug\net8.0\NinthClass_MatrixExercise.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\bin\Debug\net8.0\NinthClass_MatrixExercise.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\bin\Debug\net8.0\NinthClass_MatrixExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\bin\Debug\net8.0\NinthClass_MatrixExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\NinthClass_MatrixExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\NinthClass_MatrixExercise.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\NinthClass_MatrixExercise.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\NinthClass_MatrixExercise.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\NinthClass_MatrixExercise.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\NinthClass_MatrixExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\refint\NinthClass_MatrixExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\NinthClass_MatrixExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\NinthClass_MatrixExercise.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\NinthClass_MatrixExercise\NinthClass_MatrixExercise\obj\Debug\net8.0\ref\NinthClass_MatrixExercise.dll

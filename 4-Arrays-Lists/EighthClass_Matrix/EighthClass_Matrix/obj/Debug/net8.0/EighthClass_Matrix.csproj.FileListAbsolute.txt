@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\bin\Debug\net8.0\EighthClass_Matrix.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\bin\Debug\net8.0\EighthClass_Matrix.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\bin\Debug\net8.0\EighthClass_Matrix.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\bin\Debug\net8.0\EighthClass_Matrix.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\bin\Debug\net8.0\EighthClass_Matrix.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\EighthClass_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\EighthClass_Matrix.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\EighthClass_Matrix.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\EighthClass_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\EighthClass_Matrix.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\EighthClass_Matrix.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\refint\EighthClass_Matrix.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\EighthClass_Matrix.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\EighthClass_Matrix.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\EighthClass_Matrix\EighthClass_Matrix\obj\Debug\net8.0\ref\EighthClass_Matrix.dll

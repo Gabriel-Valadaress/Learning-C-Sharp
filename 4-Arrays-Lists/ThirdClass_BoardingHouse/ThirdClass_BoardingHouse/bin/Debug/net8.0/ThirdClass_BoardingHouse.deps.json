@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThirdClass_BoardingHouse/1.0.0": {
+        "runtime": {
+          "ThirdClass_BoardingHouse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThirdClass_BoardingHouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\bin\Debug\net8.0\FourthClass_Params.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\bin\Debug\net8.0\FourthClass_Params.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\bin\Debug\net8.0\FourthClass_Params.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\bin\Debug\net8.0\FourthClass_Params.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\bin\Debug\net8.0\FourthClass_Params.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\FourthClass_Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\FourthClass_Params.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\FourthClass_Params.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\FourthClass_Params.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\FourthClass_Params.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\FourthClass_Params.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\refint\FourthClass_Params.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\FourthClass_Params.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\FourthClass_Params.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FourthClass_Params\FourthClass_Params\obj\Debug\net8.0\ref\FourthClass_Params.dll

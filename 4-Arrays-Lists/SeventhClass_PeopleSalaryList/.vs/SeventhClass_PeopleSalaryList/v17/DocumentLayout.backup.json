@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Arrays-Lists\\SeventhClass_PeopleSalaryList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3485C2AB-3CB4-4D20-83DD-A1E498C3F046}|SeventhClass_PeopleSalaryList\\SeventhClass_PeopleSalaryList.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\arrays-lists\\seventhclass_peoplesalarylist\\seventhclass_peoplesalarylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3485C2AB-3CB4-4D20-83DD-A1E498C3F046}|SeventhClass_PeopleSalaryList\\SeventhClass_PeopleSalaryList.csproj|solutionrelative:seventhclass_peoplesalarylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485C2AB-3CB4-4D20-83DD-A1E498C3F046}|SeventhClass_PeopleSalaryList\\SeventhClass_PeopleSalaryList.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\arrays-lists\\seventhclass_peoplesalarylist\\seventhclass_peoplesalarylist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3485C2AB-3CB4-4D20-83DD-A1E498C3F046}|SeventhClass_PeopleSalaryList\\SeventhClass_PeopleSalaryList.csproj|solutionrelative:seventhclass_peoplesalarylist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Arrays-Lists\\SeventhClass_PeopleSalaryList\\SeventhClass_PeopleSalaryList\\Employee.cs",
+              "RelativeDocumentMoniker": "SeventhClass_PeopleSalaryList\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Arrays-Lists\\SeventhClass_PeopleSalaryList\\SeventhClass_PeopleSalaryList\\Employee.cs",
+              "RelativeToolTip": "SeventhClass_PeopleSalaryList\\Employee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:26:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Arrays-Lists\\SeventhClass_PeopleSalaryList\\SeventhClass_PeopleSalaryList\\Program.cs",
+              "RelativeDocumentMoniker": "SeventhClass_PeopleSalaryList\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Arrays-Lists\\SeventhClass_PeopleSalaryList\\SeventhClass_PeopleSalaryList\\Program.cs",
+              "RelativeToolTip": "SeventhClass_PeopleSalaryList\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:26:33.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\bin\Debug\net8.0\SecondClass_ObjectArray.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\bin\Debug\net8.0\SecondClass_ObjectArray.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\bin\Debug\net8.0\SecondClass_ObjectArray.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\bin\Debug\net8.0\SecondClass_ObjectArray.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\bin\Debug\net8.0\SecondClass_ObjectArray.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\SecondClass_ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\SecondClass_ObjectArray.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\SecondClass_ObjectArray.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\SecondClass_ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\SecondClass_ObjectArray.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\SecondClass_ObjectArray.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\refint\SecondClass_ObjectArray.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\SecondClass_ObjectArray.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\SecondClass_ObjectArray.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\SecondClass_ObjectArray\SecondClass_ObjectArray\obj\Debug\net8.0\ref\SecondClass_ObjectArray.dll

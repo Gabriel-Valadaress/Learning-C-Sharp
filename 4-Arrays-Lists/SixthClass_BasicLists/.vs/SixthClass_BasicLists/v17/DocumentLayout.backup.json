@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Arrays-Lists\\SixthClass_BasicLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906F63DF-D205-42FA-9EDF-B4CB96F54619}|SixthClass_BasicLists\\SixthClass_BasicLists.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\arrays-lists\\sixthclass_basiclists\\sixthclass_basiclists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906F63DF-D205-42FA-9EDF-B4CB96F54619}|SixthClass_BasicLists\\SixthClass_BasicLists.csproj|solutionrelative:sixthclass_basiclists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Arrays-Lists\\SixthClass_BasicLists\\SixthClass_BasicLists\\Program.cs",
+              "RelativeDocumentMoniker": "SixthClass_BasicLists\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Arrays-Lists\\SixthClass_BasicLists\\SixthClass_BasicLists\\Program.cs",
+              "RelativeToolTip": "SixthClass_BasicLists\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:31:14.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

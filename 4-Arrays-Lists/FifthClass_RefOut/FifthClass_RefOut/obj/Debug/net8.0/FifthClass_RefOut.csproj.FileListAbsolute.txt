@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\bin\Debug\net8.0\FifthClass_RefOut.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\bin\Debug\net8.0\FifthClass_RefOut.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\bin\Debug\net8.0\FifthClass_RefOut.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\bin\Debug\net8.0\FifthClass_RefOut.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\bin\Debug\net8.0\FifthClass_RefOut.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\FifthClass_RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\FifthClass_RefOut.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\FifthClass_RefOut.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\FifthClass_RefOut.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\FifthClass_RefOut.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\FifthClass_RefOut.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\refint\FifthClass_RefOut.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\FifthClass_RefOut.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\FifthClass_RefOut.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FifthClass_RefOut\FifthClass_RefOut\obj\Debug\net8.0\ref\FifthClass_RefOut.dll
