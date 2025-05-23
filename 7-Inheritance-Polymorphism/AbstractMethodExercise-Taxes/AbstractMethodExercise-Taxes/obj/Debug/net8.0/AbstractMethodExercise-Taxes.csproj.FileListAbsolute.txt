@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\bin\Debug\net8.0\AbstractMethodExercise-Taxes.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\bin\Debug\net8.0\AbstractMethodExercise-Taxes.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\bin\Debug\net8.0\AbstractMethodExercise-Taxes.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\bin\Debug\net8.0\AbstractMethodExercise-Taxes.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\bin\Debug\net8.0\AbstractMethodExercise-Taxes.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\AbstractMethodExercise-Taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\AbstractMethodExercise-Taxes.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\AbstractMethodExercise-Taxes.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\AbstractMethodExercise-Taxes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\AbstractMethodExercise-Taxes.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\AbstractMethodExercise-Taxes.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\refint\AbstractMethodExercise-Taxes.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\AbstractMethodExercise-Taxes.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\AbstractMethodExercise-Taxes.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Taxes\AbstractMethodExercise-Taxes\obj\Debug\net8.0\ref\AbstractMethodExercise-Taxes.dll

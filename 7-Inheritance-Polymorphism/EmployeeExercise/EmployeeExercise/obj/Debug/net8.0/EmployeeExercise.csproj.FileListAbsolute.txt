@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\bin\Debug\net8.0\EmployeeExercise.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\bin\Debug\net8.0\EmployeeExercise.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\bin\Debug\net8.0\EmployeeExercise.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\bin\Debug\net8.0\EmployeeExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\bin\Debug\net8.0\EmployeeExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\EmployeeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\EmployeeExercise.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\EmployeeExercise.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\EmployeeExercise.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\EmployeeExercise.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\EmployeeExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\refint\EmployeeExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\EmployeeExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\EmployeeExercise.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\EmployeeExercise\EmployeeExercise\obj\Debug\net8.0\ref\EmployeeExercise.dll

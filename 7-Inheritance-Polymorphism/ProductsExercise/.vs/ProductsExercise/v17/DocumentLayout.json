@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF182E84-F02B-4A8F-8FB3-4F126BB94E40}|ProductsExercise\\ProductsExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\productsexercise\\productsexercise\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF182E84-F02B-4A8F-8FB3-4F126BB94E40}|ProductsExercise\\ProductsExercise.csproj|solutionrelative:productsexercise\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF182E84-F02B-4A8F-8FB3-4F126BB94E40}|ProductsExercise\\ProductsExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\productsexercise\\productsexercise\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF182E84-F02B-4A8F-8FB3-4F126BB94E40}|ProductsExercise\\ProductsExercise.csproj|solutionrelative:productsexercise\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF182E84-F02B-4A8F-8FB3-4F126BB94E40}|ProductsExercise\\ProductsExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\productsexercise\\productsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF182E84-F02B-4A8F-8FB3-4F126BB94E40}|ProductsExercise\\ProductsExercise.csproj|solutionrelative:productsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF182E84-F02B-4A8F-8FB3-4F126BB94E40}|ProductsExercise\\ProductsExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\productsexercise\\productsexercise\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF182E84-F02B-4A8F-8FB3-4F126BB94E40}|ProductsExercise\\ProductsExercise.csproj|solutionrelative:productsexercise\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\ProductsExercise\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ProductsExercise\\Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\ProductsExercise\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ProductsExercise\\Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:57:52.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\ProductsExercise\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsExercise\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\ProductsExercise\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductsExercise\\Entities\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:50:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\ProductsExercise\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ProductsExercise\\Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\ProductsExercise\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ProductsExercise\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:52:32.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\ProductsExercise\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\ProductsExercise\\ProductsExercise\\Program.cs",
+              "RelativeToolTip": "ProductsExercise\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:50:02.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

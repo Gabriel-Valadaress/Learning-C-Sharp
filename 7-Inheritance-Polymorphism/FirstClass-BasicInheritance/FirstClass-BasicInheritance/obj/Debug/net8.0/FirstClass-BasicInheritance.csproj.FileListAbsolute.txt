@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\bin\Debug\net8.0\FirstClass-BasicInheritance.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\bin\Debug\net8.0\FirstClass-BasicInheritance.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\bin\Debug\net8.0\FirstClass-BasicInheritance.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\bin\Debug\net8.0\FirstClass-BasicInheritance.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\bin\Debug\net8.0\FirstClass-BasicInheritance.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\FirstClass-BasicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\FirstClass-BasicInheritance.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\FirstClass-BasicInheritance.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\FirstClass-BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\FirstClass-BasicInheritance.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\FirstClass-BasicInheritance.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\refint\FirstClass-BasicInheritance.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\FirstClass-BasicInheritance.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\FirstClass-BasicInheritance.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\FirstClass-BasicInheritance\FirstClass-BasicInheritance\obj\Debug\net8.0\ref\FirstClass-BasicInheritance.dll

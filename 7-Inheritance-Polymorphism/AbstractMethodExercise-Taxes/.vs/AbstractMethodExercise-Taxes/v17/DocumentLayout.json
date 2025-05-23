@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91EDA537-D4AD-49CA-8E52-D791E4B2F30A}|AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\abstractmethodexercise-taxes\\abstractmethodexercise-taxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EDA537-D4AD-49CA-8E52-D791E4B2F30A}|AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes.csproj|solutionrelative:abstractmethodexercise-taxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EDA537-D4AD-49CA-8E52-D791E4B2F30A}|AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\abstractmethodexercise-taxes\\abstractmethodexercise-taxes\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EDA537-D4AD-49CA-8E52-D791E4B2F30A}|AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes.csproj|solutionrelative:abstractmethodexercise-taxes\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EDA537-D4AD-49CA-8E52-D791E4B2F30A}|AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\abstractmethodexercise-taxes\\abstractmethodexercise-taxes\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EDA537-D4AD-49CA-8E52-D791E4B2F30A}|AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes.csproj|solutionrelative:abstractmethodexercise-taxes\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EDA537-D4AD-49CA-8E52-D791E4B2F30A}|AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\abstractmethodexercise-taxes\\abstractmethodexercise-taxes\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EDA537-D4AD-49CA-8E52-D791E4B2F30A}|AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes.csproj|solutionrelative:abstractmethodexercise-taxes\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "AbstractMethodExercise-Taxes\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes\\Entities\\Company.cs",
+              "RelativeToolTip": "AbstractMethodExercise-Taxes\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:11:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "AbstractMethodExercise-Taxes\\Entities\\Individual.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes\\Entities\\Individual.cs",
+              "RelativeToolTip": "AbstractMethodExercise-Taxes\\Entities\\Individual.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:02:33.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "AbstractMethodExercise-Taxes\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes\\Entities\\Entity.cs",
+              "RelativeToolTip": "AbstractMethodExercise-Taxes\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:01:01.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractMethodExercise-Taxes\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\AbstractMethodExercise-Taxes\\AbstractMethodExercise-Taxes\\Program.cs",
+              "RelativeToolTip": "AbstractMethodExercise-Taxes\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:56:45.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

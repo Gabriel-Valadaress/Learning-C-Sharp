@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\bin\Debug\net8.0\ProductsExercise.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\bin\Debug\net8.0\ProductsExercise.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\bin\Debug\net8.0\ProductsExercise.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\bin\Debug\net8.0\ProductsExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\bin\Debug\net8.0\ProductsExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ProductsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ProductsExercise.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ProductsExercise.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ProductsExercise.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ProductsExercise.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ProductsExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\refint\ProductsExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ProductsExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ProductsExercise.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\ProductsExercise\ProductsExercise\obj\Debug\net8.0\ref\ProductsExercise.dll

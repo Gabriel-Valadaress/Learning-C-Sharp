@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\EmployeeExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B596AAEC-2E09-4985-84E6-6E2E2CFAF5A8}|EmployeeExercise\\EmployeeExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\employeeexercise\\employeeexercise\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B596AAEC-2E09-4985-84E6-6E2E2CFAF5A8}|EmployeeExercise\\EmployeeExercise.csproj|solutionrelative:employeeexercise\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B596AAEC-2E09-4985-84E6-6E2E2CFAF5A8}|EmployeeExercise\\EmployeeExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\employeeexercise\\employeeexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B596AAEC-2E09-4985-84E6-6E2E2CFAF5A8}|EmployeeExercise\\EmployeeExercise.csproj|solutionrelative:employeeexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B596AAEC-2E09-4985-84E6-6E2E2CFAF5A8}|EmployeeExercise\\EmployeeExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\7-inheritance-polymorphism\\employeeexercise\\employeeexercise\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B596AAEC-2E09-4985-84E6-6E2E2CFAF5A8}|EmployeeExercise\\EmployeeExercise.csproj|solutionrelative:employeeexercise\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\EmployeeExercise\\EmployeeExercise\\Entities\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeExercise\\Entities\\OutsourcedEmployee.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\EmployeeExercise\\EmployeeExercise\\Entities\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "EmployeeExercise\\Entities\\OutsourcedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:30:57.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\EmployeeExercise\\EmployeeExercise\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeExercise\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\EmployeeExercise\\EmployeeExercise\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeExercise\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:28:45.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\EmployeeExercise\\EmployeeExercise\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\7-Inheritance-Polymorphism\\EmployeeExercise\\EmployeeExercise\\Program.cs",
+              "RelativeToolTip": "EmployeeExercise\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:21:15.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

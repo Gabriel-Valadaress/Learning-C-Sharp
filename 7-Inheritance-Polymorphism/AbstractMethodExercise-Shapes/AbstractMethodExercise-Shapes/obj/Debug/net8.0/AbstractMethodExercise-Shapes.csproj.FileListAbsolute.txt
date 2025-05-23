@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\bin\Debug\net8.0\AbstractMethodExercise-Shapes.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\bin\Debug\net8.0\AbstractMethodExercise-Shapes.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\bin\Debug\net8.0\AbstractMethodExercise-Shapes.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\bin\Debug\net8.0\AbstractMethodExercise-Shapes.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\bin\Debug\net8.0\AbstractMethodExercise-Shapes.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\AbstractMethodExercise-Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\AbstractMethodExercise-Shapes.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\AbstractMethodExercise-Shapes.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\AbstractMethodExercise-Shapes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\AbstractMethodExercise-Shapes.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\AbstractMethodExercise-Shapes.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\refint\AbstractMethodExercise-Shapes.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\AbstractMethodExercise-Shapes.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\AbstractMethodExercise-Shapes.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\7-Inheritance-Polymorphism\AbstractMethodExercise-Shapes\AbstractMethodExercise-Shapes\obj\Debug\net8.0\ref\AbstractMethodExercise-Shapes.dll
