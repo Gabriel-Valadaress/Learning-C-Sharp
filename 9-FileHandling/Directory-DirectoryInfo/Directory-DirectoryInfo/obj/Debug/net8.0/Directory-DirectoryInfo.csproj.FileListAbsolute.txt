@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\refint\Directory-DirectoryInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\net8.0\ref\Directory-DirectoryInfo.dll

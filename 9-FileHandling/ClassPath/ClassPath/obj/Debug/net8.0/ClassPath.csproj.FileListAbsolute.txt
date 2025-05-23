@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\bin\Debug\net8.0\ClassPath.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\bin\Debug\net8.0\ClassPath.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\bin\Debug\net8.0\ClassPath.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\bin\Debug\net8.0\ClassPath.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\bin\Debug\net8.0\ClassPath.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ClassPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ClassPath.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ClassPath.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ClassPath.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ClassPath.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ClassPath.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\refint\ClassPath.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ClassPath.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ClassPath.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\ClassPath\ClassPath\obj\Debug\net8.0\ref\ClassPath.dll

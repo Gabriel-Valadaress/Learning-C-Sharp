@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\bin\Debug\net8.0\File-FileInfo.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\bin\Debug\net8.0\File-FileInfo.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\bin\Debug\net8.0\File-FileInfo.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\bin\Debug\net8.0\File-FileInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\bin\Debug\net8.0\File-FileInfo.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\File-FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\File-FileInfo.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\File-FileInfo.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\File-FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\File-FileInfo.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\File-FileInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\refint\File-FileInfo.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\File-FileInfo.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\File-FileInfo.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\File-FileInfo\File-FileInfo\obj\Debug\net8.0\ref\File-FileInfo.dll

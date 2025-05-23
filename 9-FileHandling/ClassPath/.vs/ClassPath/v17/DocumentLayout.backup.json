@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\9-FileHandling\\ClassPath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB12E84C-D9E0-470F-A170-1F3372BAABC5}|ClassPath\\ClassPath.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\9-filehandling\\classpath\\classpath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB12E84C-D9E0-470F-A170-1F3372BAABC5}|ClassPath\\ClassPath.csproj|solutionrelative:classpath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\9-FileHandling\\ClassPath\\ClassPath\\Program.cs",
+              "RelativeDocumentMoniker": "ClassPath\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\9-FileHandling\\ClassPath\\ClassPath\\Program.cs",
+              "RelativeToolTip": "ClassPath\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:02:23.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

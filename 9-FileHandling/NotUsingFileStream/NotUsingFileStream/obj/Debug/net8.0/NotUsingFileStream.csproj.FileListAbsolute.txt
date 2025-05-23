@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\bin\Debug\net8.0\NotUsingFileStream.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\bin\Debug\net8.0\NotUsingFileStream.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\bin\Debug\net8.0\NotUsingFileStream.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\bin\Debug\net8.0\NotUsingFileStream.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\bin\Debug\net8.0\NotUsingFileStream.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\NotUsingFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\NotUsingFileStream.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\NotUsingFileStream.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\NotUsingFileStream.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\NotUsingFileStream.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\NotUsingFileStream.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\refint\NotUsingFileStream.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\NotUsingFileStream.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\NotUsingFileStream.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\NotUsingFileStream\NotUsingFileStream\obj\Debug\net8.0\ref\NotUsingFileStream.dll

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\bin\Debug\net8.0\Exercise-HandleACSVFile.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\bin\Debug\net8.0\Exercise-HandleACSVFile.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\bin\Debug\net8.0\Exercise-HandleACSVFile.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\bin\Debug\net8.0\Exercise-HandleACSVFile.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\bin\Debug\net8.0\Exercise-HandleACSVFile.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\Exercise-HandleACSVFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\Exercise-HandleACSVFile.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\Exercise-HandleACSVFile.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\Exercise-HandleACSVFile.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\Exercise-HandleACSVFile.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\Exercise-HandleACSVFile.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\refint\Exercise-HandleACSVFile.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\Exercise-HandleACSVFile.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\Exercise-HandleACSVFile.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\Exercise-HandleACSVFile\Exercise-HandleACSVFile\obj\Debug\net8.0\ref\Exercise-HandleACSVFile.dll

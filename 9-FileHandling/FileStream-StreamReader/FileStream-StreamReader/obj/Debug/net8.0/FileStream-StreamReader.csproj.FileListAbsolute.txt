@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\bin\Debug\net8.0\FileStream-StreamReader.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\bin\Debug\net8.0\FileStream-StreamReader.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\bin\Debug\net8.0\FileStream-StreamReader.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\bin\Debug\net8.0\FileStream-StreamReader.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\bin\Debug\net8.0\FileStream-StreamReader.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\FileStream-StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\FileStream-StreamReader.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\FileStream-StreamReader.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\FileStream-StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\FileStream-StreamReader.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\FileStream-StreamReader.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\refint\FileStream-StreamReader.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\FileStream-StreamReader.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\FileStream-StreamReader.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\FileStream-StreamReader\FileStream-StreamReader\obj\Debug\net8.0\ref\FileStream-StreamReader.dll

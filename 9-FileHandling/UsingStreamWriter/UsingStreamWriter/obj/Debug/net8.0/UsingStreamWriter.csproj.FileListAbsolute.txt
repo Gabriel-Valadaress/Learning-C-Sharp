@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\bin\Debug\net8.0\UsingStreamWriter.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\bin\Debug\net8.0\UsingStreamWriter.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\bin\Debug\net8.0\UsingStreamWriter.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\bin\Debug\net8.0\UsingStreamWriter.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\bin\Debug\net8.0\UsingStreamWriter.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\UsingStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\UsingStreamWriter.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\UsingStreamWriter.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\UsingStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\UsingStreamWriter.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\UsingStreamWriter.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\refint\UsingStreamWriter.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\UsingStreamWriter.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\UsingStreamWriter.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\9-FileHandling\UsingStreamWriter\UsingStreamWriter\obj\Debug\net8.0\ref\UsingStreamWriter.dll
