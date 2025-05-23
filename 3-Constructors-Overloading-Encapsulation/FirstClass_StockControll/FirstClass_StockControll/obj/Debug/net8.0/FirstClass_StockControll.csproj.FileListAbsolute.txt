@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\bin\Debug\net8.0\FirstClass_StockControll.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\bin\Debug\net8.0\FirstClass_StockControll.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\bin\Debug\net8.0\FirstClass_StockControll.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\bin\Debug\net8.0\FirstClass_StockControll.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\bin\Debug\net8.0\FirstClass_StockControll.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\FirstClass_StockControll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\FirstClass_StockControll.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\FirstClass_StockControll.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\FirstClass_StockControll.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\FirstClass_StockControll.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\FirstClass_StockControll.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\refint\FirstClass_StockControll.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\FirstClass_StockControll.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\FirstClass_StockControll.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\FirstClass_StockControll\FirstClass_StockControll\obj\Debug\net8.0\ref\FirstClass_StockControll.dll

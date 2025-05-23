@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Constructors-Overloading-Encapsulation\\FirstClass_StockControll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC24FB85-FD62-4B09-847D-1FA0C28352EC}|FirstClass_StockControll\\FirstClass_StockControll.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\constructors-overloading-encapsulation\\firstclass_stockcontroll\\firstclass_stockcontroll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC24FB85-FD62-4B09-847D-1FA0C28352EC}|FirstClass_StockControll\\FirstClass_StockControll.csproj|solutionrelative:firstclass_stockcontroll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC24FB85-FD62-4B09-847D-1FA0C28352EC}|FirstClass_StockControll\\FirstClass_StockControll.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\constructors-overloading-encapsulation\\firstclass_stockcontroll\\firstclass_stockcontroll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC24FB85-FD62-4B09-847D-1FA0C28352EC}|FirstClass_StockControll\\FirstClass_StockControll.csproj|solutionrelative:firstclass_stockcontroll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Constructors-Overloading-Encapsulation\\FirstClass_StockControll\\FirstClass_StockControll\\Product.cs",
+              "RelativeDocumentMoniker": "FirstClass_StockControll\\Product.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Constructors-Overloading-Encapsulation\\FirstClass_StockControll\\FirstClass_StockControll\\Product.cs",
+              "RelativeToolTip": "FirstClass_StockControll\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:46:04.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Constructors-Overloading-Encapsulation\\FirstClass_StockControll\\FirstClass_StockControll\\Program.cs",
+              "RelativeDocumentMoniker": "FirstClass_StockControll\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\Constructors-Overloading-Encapsulation\\FirstClass_StockControll\\FirstClass_StockControll\\Program.cs",
+              "RelativeToolTip": "FirstClass_StockControll\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:45:34.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\bin\Debug\net8.0\SecondClass_BankAccount.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\bin\Debug\net8.0\SecondClass_BankAccount.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\bin\Debug\net8.0\SecondClass_BankAccount.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\bin\Debug\net8.0\SecondClass_BankAccount.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\bin\Debug\net8.0\SecondClass_BankAccount.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\SecondClass_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\SecondClass_BankAccount.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\SecondClass_BankAccount.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\SecondClass_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\SecondClass_BankAccount.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\SecondClass_BankAccount.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\refint\SecondClass_BankAccount.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\SecondClass_BankAccount.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\SecondClass_BankAccount.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Constructors-Overloading-Encapsulation\SecondClass_BankAccount\SecondClass_BankAccount\obj\Debug\net8.0\ref\SecondClass_BankAccount.dll

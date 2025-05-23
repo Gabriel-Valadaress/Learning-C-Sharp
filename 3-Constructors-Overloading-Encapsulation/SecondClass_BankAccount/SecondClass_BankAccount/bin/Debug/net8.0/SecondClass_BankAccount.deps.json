@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SecondClass_BankAccount/1.0.0": {
+        "runtime": {
+          "SecondClass_BankAccount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecondClass_BankAccount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
