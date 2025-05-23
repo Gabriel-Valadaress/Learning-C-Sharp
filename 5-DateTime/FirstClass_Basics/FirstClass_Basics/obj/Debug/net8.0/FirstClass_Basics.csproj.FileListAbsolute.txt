@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\bin\Debug\net8.0\FirstClass_Basics.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\bin\Debug\net8.0\FirstClass_Basics.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\bin\Debug\net8.0\FirstClass_Basics.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\bin\Debug\net8.0\FirstClass_Basics.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\bin\Debug\net8.0\FirstClass_Basics.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\FirstClass_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\FirstClass_Basics.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\FirstClass_Basics.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\FirstClass_Basics.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\FirstClass_Basics.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\FirstClass_Basics.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\refint\FirstClass_Basics.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\FirstClass_Basics.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\FirstClass_Basics.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\Arrays-Lists\FirstClass_Basics\FirstClass_Basics\obj\Debug\net8.0\ref\FirstClass_Basics.dll

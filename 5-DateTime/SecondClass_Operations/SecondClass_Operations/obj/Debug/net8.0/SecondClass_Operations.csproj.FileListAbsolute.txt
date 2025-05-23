@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\bin\Debug\net8.0\SecondClass_Operations.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\bin\Debug\net8.0\SecondClass_Operations.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\bin\Debug\net8.0\SecondClass_Operations.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\bin\Debug\net8.0\SecondClass_Operations.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\bin\Debug\net8.0\SecondClass_Operations.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\SecondClass_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\SecondClass_Operations.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\SecondClass_Operations.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\SecondClass_Operations.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\SecondClass_Operations.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\SecondClass_Operations.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\refint\SecondClass_Operations.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\SecondClass_Operations.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\SecondClass_Operations.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\DateTime\SecondClass_Operations\SecondClass_Operations\obj\Debug\net8.0\ref\SecondClass_Operations.dll
