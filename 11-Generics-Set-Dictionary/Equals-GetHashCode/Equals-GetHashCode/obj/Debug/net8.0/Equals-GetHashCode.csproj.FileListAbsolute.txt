@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\bin\Debug\net8.0\Equals-GetHashCode.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\bin\Debug\net8.0\Equals-GetHashCode.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\bin\Debug\net8.0\Equals-GetHashCode.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\bin\Debug\net8.0\Equals-GetHashCode.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\bin\Debug\net8.0\Equals-GetHashCode.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\Equals-GetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\Equals-GetHashCode.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\Equals-GetHashCode.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\Equals-GetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\Equals-GetHashCode.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\Equals-GetHashCode.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\refint\Equals-GetHashCode.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\Equals-GetHashCode.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\Equals-GetHashCode.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Equals-GetHashCode\Equals-GetHashCode\obj\Debug\net8.0\ref\Equals-GetHashCode.dll

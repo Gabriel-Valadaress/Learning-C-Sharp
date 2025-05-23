@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\bin\Debug\net8.0\Generics-ParameterT.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\bin\Debug\net8.0\Generics-ParameterT.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\bin\Debug\net8.0\Generics-ParameterT.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\bin\Debug\net8.0\Generics-ParameterT.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\bin\Debug\net8.0\Generics-ParameterT.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\Generics-ParameterT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\Generics-ParameterT.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\Generics-ParameterT.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\Generics-ParameterT.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\Generics-ParameterT.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\Generics-ParameterT.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\refint\Generics-ParameterT.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\Generics-ParameterT.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\Generics-ParameterT.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\Generics-ParameterT\Generics-ParameterT\obj\Debug\net8.0\ref\Generics-ParameterT.dll

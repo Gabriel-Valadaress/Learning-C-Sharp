@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\bin\Debug\net8.0\GenericTypeConstraints.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\bin\Debug\net8.0\GenericTypeConstraints.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\bin\Debug\net8.0\GenericTypeConstraints.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\bin\Debug\net8.0\GenericTypeConstraints.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\bin\Debug\net8.0\GenericTypeConstraints.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\GenericTypeConstraints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\GenericTypeConstraints.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\GenericTypeConstraints.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\GenericTypeConstraints.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\GenericTypeConstraints.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\GenericTypeConstraints.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\refint\GenericTypeConstraints.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\GenericTypeConstraints.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\GenericTypeConstraints.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\GenericTypeConstraints\GenericTypeConstraints\obj\Debug\net8.0\ref\GenericTypeConstraints.dll

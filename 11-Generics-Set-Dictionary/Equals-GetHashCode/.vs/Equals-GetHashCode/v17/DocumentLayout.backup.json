@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\11-Generics-Set-Dictionary\\Equals-GetHashCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC32D5CA-80AD-4D06-BCC6-BE0F39B296DF}|Equals-GetHashCode\\Equals-GetHashCode.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\11-generics-set-dictionary\\equals-gethashcode\\equals-gethashcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC32D5CA-80AD-4D06-BCC6-BE0F39B296DF}|Equals-GetHashCode\\Equals-GetHashCode.csproj|solutionrelative:equals-gethashcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC32D5CA-80AD-4D06-BCC6-BE0F39B296DF}|Equals-GetHashCode\\Equals-GetHashCode.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\11-generics-set-dictionary\\equals-gethashcode\\equals-gethashcode\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC32D5CA-80AD-4D06-BCC6-BE0F39B296DF}|Equals-GetHashCode\\Equals-GetHashCode.csproj|solutionrelative:equals-gethashcode\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\11-Generics-Set-Dictionary\\Equals-GetHashCode\\Equals-GetHashCode\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Equals-GetHashCode\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\11-Generics-Set-Dictionary\\Equals-GetHashCode\\Equals-GetHashCode\\Entities\\Client.cs",
+              "RelativeToolTip": "Equals-GetHashCode\\Entities\\Client.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:26:14.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\11-Generics-Set-Dictionary\\Equals-GetHashCode\\Equals-GetHashCode\\Program.cs",
+              "RelativeDocumentMoniker": "Equals-GetHashCode\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\11-Generics-Set-Dictionary\\Equals-GetHashCode\\Equals-GetHashCode\\Program.cs",
+              "RelativeToolTip": "Equals-GetHashCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:25:57.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
