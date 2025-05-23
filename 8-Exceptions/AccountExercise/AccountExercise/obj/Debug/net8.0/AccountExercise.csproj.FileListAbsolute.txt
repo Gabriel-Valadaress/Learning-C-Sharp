@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\bin\Debug\net8.0\AccountExercise.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\bin\Debug\net8.0\AccountExercise.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\bin\Debug\net8.0\AccountExercise.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\bin\Debug\net8.0\AccountExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\bin\Debug\net8.0\AccountExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\AccountExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\AccountExercise.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\AccountExercise.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\AccountExercise.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\AccountExercise.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\AccountExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\refint\AccountExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\AccountExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\AccountExercise.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\AccountExercise\AccountExercise\obj\Debug\net8.0\ref\AccountExercise.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\8-Exceptions\\AccountExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37253EE9-84AD-4EF6-9393-F9B89D4F0219}|AccountExercise\\AccountExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\8-exceptions\\accountexercise\\accountexercise\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37253EE9-84AD-4EF6-9393-F9B89D4F0219}|AccountExercise\\AccountExercise.csproj|solutionrelative:accountexercise\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37253EE9-84AD-4EF6-9393-F9B89D4F0219}|AccountExercise\\AccountExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\8-exceptions\\accountexercise\\accountexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37253EE9-84AD-4EF6-9393-F9B89D4F0219}|AccountExercise\\AccountExercise.csproj|solutionrelative:accountexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37253EE9-84AD-4EF6-9393-F9B89D4F0219}|AccountExercise\\AccountExercise.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\8-exceptions\\accountexercise\\accountexercise\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37253EE9-84AD-4EF6-9393-F9B89D4F0219}|AccountExercise\\AccountExercise.csproj|solutionrelative:accountexercise\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\8-Exceptions\\AccountExercise\\AccountExercise\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "AccountExercise\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\8-Exceptions\\AccountExercise\\AccountExercise\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "AccountExercise\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:34:56.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\8-Exceptions\\AccountExercise\\AccountExercise\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "AccountExercise\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\8-Exceptions\\AccountExercise\\AccountExercise\\Entities\\Account.cs",
+              "RelativeToolTip": "AccountExercise\\Entities\\Account.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:34:46.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\8-Exceptions\\AccountExercise\\AccountExercise\\Program.cs",
+              "RelativeDocumentMoniker": "AccountExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\8-Exceptions\\AccountExercise\\AccountExercise\\Program.cs",
+              "RelativeToolTip": "AccountExercise\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwC8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:34:13.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

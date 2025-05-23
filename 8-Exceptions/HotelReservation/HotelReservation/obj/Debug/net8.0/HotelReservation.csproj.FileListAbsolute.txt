@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\bin\Debug\net8.0\HotelReservation.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\bin\Debug\net8.0\HotelReservation.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\bin\Debug\net8.0\HotelReservation.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\bin\Debug\net8.0\HotelReservation.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\bin\Debug\net8.0\HotelReservation.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\HotelReservation.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\HotelReservation.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\HotelReservation.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\HotelReservation.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\refint\HotelReservation.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\HotelReservation.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\HotelReservation.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\8-Exceptions\HotelReservation\HotelReservation\obj\Debug\net8.0\ref\HotelReservation.dll
