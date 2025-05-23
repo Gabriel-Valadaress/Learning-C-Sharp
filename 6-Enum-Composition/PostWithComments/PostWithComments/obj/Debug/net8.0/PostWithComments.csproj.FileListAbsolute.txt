@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\bin\Debug\net8.0\PostWithComments.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\bin\Debug\net8.0\PostWithComments.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\bin\Debug\net8.0\PostWithComments.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\bin\Debug\net8.0\PostWithComments.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\bin\Debug\net8.0\PostWithComments.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\PostWithComments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\PostWithComments.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\PostWithComments.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\PostWithComments.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\PostWithComments.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\refint\PostWithComments.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\PostWithComments.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\PostWithComments.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\PostWithComments\PostWithComments\obj\Debug\net8.0\ref\PostWithComments.dll

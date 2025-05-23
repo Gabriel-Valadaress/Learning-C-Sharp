@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\bin\Debug\net8.0\OrderProductsExercise.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\bin\Debug\net8.0\OrderProductsExercise.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\bin\Debug\net8.0\OrderProductsExercise.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\bin\Debug\net8.0\OrderProductsExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\bin\Debug\net8.0\OrderProductsExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\OrderProductsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\OrderProductsExercise.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\OrderProductsExercise.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\OrderProductsExercise.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\OrderProductsExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\refint\OrderProductsExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\OrderProductsExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\OrderProductsExercise.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\NovelAutomation\OrderProductsExercise\OrderProductsExercise\obj\Debug\net8.0\ref\OrderProductsExercise.dll

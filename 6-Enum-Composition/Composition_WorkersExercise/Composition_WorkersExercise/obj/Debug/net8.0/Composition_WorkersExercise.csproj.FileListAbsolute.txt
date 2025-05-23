@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\bin\Debug\net8.0\Composition_WorkersExercise.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\bin\Debug\net8.0\Composition_WorkersExercise.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\bin\Debug\net8.0\Composition_WorkersExercise.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\bin\Debug\net8.0\Composition_WorkersExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\bin\Debug\net8.0\Composition_WorkersExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\Composition_WorkersExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\Composition_WorkersExercise.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\Composition_WorkersExercise.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\Composition_WorkersExercise.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\Composition_WorkersExercise.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\Composition_WorkersExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\refint\Composition_WorkersExercise.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\Composition_WorkersExercise.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\Composition_WorkersExercise.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\6-Enum-Composition\Composition_WorkersExercise\Composition_WorkersExercise\obj\Debug\net8.0\ref\Composition_WorkersExercise.dll
