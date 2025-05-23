@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\bin\Debug\net8.0\FirstProgramm.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\bin\Debug\net8.0\FirstProgramm.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\bin\Debug\net8.0\FirstProgramm.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\bin\Debug\net8.0\FirstProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\bin\Debug\net8.0\FirstProgramm.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\FirstProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\FirstProgramm.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\FirstProgramm.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\FirstProgramm.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\FirstProgramm.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\FirstProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\refint\FirstProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\FirstProgramm.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\FirstProgramm.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\FirstProgramm\FirstProgramm\obj\Debug\net8.0\ref\FirstProgramm.dll

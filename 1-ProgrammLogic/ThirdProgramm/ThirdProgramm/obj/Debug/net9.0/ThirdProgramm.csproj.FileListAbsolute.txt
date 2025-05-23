@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\bin\Debug\net9.0\ThirdProgramm.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\bin\Debug\net9.0\ThirdProgramm.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\bin\Debug\net9.0\ThirdProgramm.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\bin\Debug\net9.0\ThirdProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\bin\Debug\net9.0\ThirdProgramm.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ThirdProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ThirdProgramm.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ThirdProgramm.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ThirdProgramm.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ThirdProgramm.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ThirdProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\refint\ThirdProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ThirdProgramm.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ThirdProgramm.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\ThirdProgramm\ThirdProgramm\obj\Debug\net9.0\ref\ThirdProgramm.dll

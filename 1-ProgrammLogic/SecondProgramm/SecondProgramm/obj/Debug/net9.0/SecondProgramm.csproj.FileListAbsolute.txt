@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\bin\Debug\net9.0\SecondProgramm.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\bin\Debug\net9.0\SecondProgramm.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\bin\Debug\net9.0\SecondProgramm.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\bin\Debug\net9.0\SecondProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\bin\Debug\net9.0\SecondProgramm.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\SecondProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\SecondProgramm.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\SecondProgramm.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\SecondProgramm.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\SecondProgramm.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\SecondProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\refint\SecondProgramm.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\SecondProgramm.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\SecondProgramm.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\ProgrammLogic\SecondProgramm\SecondProgramm\obj\Debug\net9.0\ref\SecondProgramm.dll
