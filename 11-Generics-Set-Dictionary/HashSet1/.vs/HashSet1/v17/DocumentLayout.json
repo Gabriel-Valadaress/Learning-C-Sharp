@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\11-Generics-Set-Dictionary\\HashSet1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56EAE8CA-E614-49E5-BBBE-73F9C20B9A84}|HashSet1\\HashSet1.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\11-generics-set-dictionary\\hashset1\\hashset1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EAE8CA-E614-49E5-BBBE-73F9C20B9A84}|HashSet1\\HashSet1.csproj|solutionrelative:hashset1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\11-Generics-Set-Dictionary\\HashSet1\\HashSet1\\Program.cs",
+              "RelativeDocumentMoniker": "HashSet1\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\11-Generics-Set-Dictionary\\HashSet1\\HashSet1\\Program.cs",
+              "RelativeToolTip": "HashSet1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:28:29.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

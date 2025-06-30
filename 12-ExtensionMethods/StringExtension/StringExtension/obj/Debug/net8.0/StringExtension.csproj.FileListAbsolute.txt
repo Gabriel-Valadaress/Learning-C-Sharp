@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\bin\Debug\net8.0\StringExtension.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\bin\Debug\net8.0\StringExtension.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\bin\Debug\net8.0\StringExtension.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\bin\Debug\net8.0\StringExtension.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\bin\Debug\net8.0\StringExtension.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\StringExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\StringExtension.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\StringExtension.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\StringExtension.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\StringExtension.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\StringExtension.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\refint\StringExtension.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\StringExtension.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\StringExtension.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\StringExtension\StringExtension\obj\Debug\net8.0\ref\StringExtension.dll

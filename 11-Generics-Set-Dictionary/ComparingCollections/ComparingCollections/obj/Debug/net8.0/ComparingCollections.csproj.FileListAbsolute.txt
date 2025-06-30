@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\bin\Debug\net8.0\ComparingCollections.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\bin\Debug\net8.0\ComparingCollections.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\bin\Debug\net8.0\ComparingCollections.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\bin\Debug\net8.0\ComparingCollections.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\bin\Debug\net8.0\ComparingCollections.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ComparingCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ComparingCollections.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ComparingCollections.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ComparingCollections.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ComparingCollections.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ComparingCollections.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\refint\ComparingCollections.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ComparingCollections.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ComparingCollections.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\11-Generics-Set-Dictionary\ComparingCollections\ComparingCollections\obj\Debug\net8.0\ref\ComparingCollections.dll

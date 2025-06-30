@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\bin\Debug\net8.0\ExtendingDateTime.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\bin\Debug\net8.0\ExtendingDateTime.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\bin\Debug\net8.0\ExtendingDateTime.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\bin\Debug\net8.0\ExtendingDateTime.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\bin\Debug\net8.0\ExtendingDateTime.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ExtendingDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ExtendingDateTime.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ExtendingDateTime.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ExtendingDateTime.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ExtendingDateTime.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ExtendingDateTime.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\refint\ExtendingDateTime.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ExtendingDateTime.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ExtendingDateTime.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\12-ExtensionMethods\ExtendingDateTime\ExtendingDateTime\obj\Debug\net8.0\ref\ExtendingDateTime.dll
