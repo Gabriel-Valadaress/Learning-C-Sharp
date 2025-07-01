@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\bin\Debug\net8.0\Delegates01.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\bin\Debug\net8.0\Delegates01.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\bin\Debug\net8.0\Delegates01.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\bin\Debug\net8.0\Delegates01.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\bin\Debug\net8.0\Delegates01.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\Delegates01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\Delegates01.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\Delegates01.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\Delegates01.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\Delegates01.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\Delegates01.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\refint\Delegates01.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\Delegates01.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\Delegates01.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Delegates01\Delegates01\obj\Debug\net8.0\ref\Delegates01.dll

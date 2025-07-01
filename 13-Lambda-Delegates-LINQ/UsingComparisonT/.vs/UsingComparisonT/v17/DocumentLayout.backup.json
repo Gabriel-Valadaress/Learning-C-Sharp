@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\UsingComparisonT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8386F654-AAF9-4508-AC60-CD9C53938179}|UsingComparisonT\\UsingComparisonT.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\13-lambda-delegates-linq\\usingcomparisont\\usingcomparisont\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8386F654-AAF9-4508-AC60-CD9C53938179}|UsingComparisonT\\UsingComparisonT.csproj|solutionrelative:usingcomparisont\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8386F654-AAF9-4508-AC60-CD9C53938179}|UsingComparisonT\\UsingComparisonT.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\13-lambda-delegates-linq\\usingcomparisont\\usingcomparisont\\entities\\producticomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8386F654-AAF9-4508-AC60-CD9C53938179}|UsingComparisonT\\UsingComparisonT.csproj|solutionrelative:usingcomparisont\\entities\\producticomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8386F654-AAF9-4508-AC60-CD9C53938179}|UsingComparisonT\\UsingComparisonT.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\13-lambda-delegates-linq\\usingcomparisont\\usingcomparisont\\entities\\productcomparisont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8386F654-AAF9-4508-AC60-CD9C53938179}|UsingComparisonT\\UsingComparisonT.csproj|solutionrelative:usingcomparisont\\entities\\productcomparisont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductComparisonT.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\UsingComparisonT\\UsingComparisonT\\Entities\\ProductComparisonT.cs",
+              "RelativeDocumentMoniker": "UsingComparisonT\\Entities\\ProductComparisonT.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\UsingComparisonT\\UsingComparisonT\\Entities\\ProductComparisonT.cs",
+              "RelativeToolTip": "UsingComparisonT\\Entities\\ProductComparisonT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:09:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductIComparable.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\UsingComparisonT\\UsingComparisonT\\Entities\\ProductIComparable.cs",
+              "RelativeDocumentMoniker": "UsingComparisonT\\Entities\\ProductIComparable.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\UsingComparisonT\\UsingComparisonT\\Entities\\ProductIComparable.cs",
+              "RelativeToolTip": "UsingComparisonT\\Entities\\ProductIComparable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:01:02.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\UsingComparisonT\\UsingComparisonT\\Program.cs",
+              "RelativeDocumentMoniker": "UsingComparisonT\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\UsingComparisonT\\UsingComparisonT\\Program.cs",
+              "RelativeToolTip": "UsingComparisonT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:00:23.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

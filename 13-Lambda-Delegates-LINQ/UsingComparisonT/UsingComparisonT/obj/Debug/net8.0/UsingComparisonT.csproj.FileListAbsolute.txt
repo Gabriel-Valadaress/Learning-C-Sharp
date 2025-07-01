@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\bin\Debug\net8.0\UsingComparisonT.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\bin\Debug\net8.0\UsingComparisonT.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\bin\Debug\net8.0\UsingComparisonT.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\bin\Debug\net8.0\UsingComparisonT.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\bin\Debug\net8.0\UsingComparisonT.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\UsingComparisonT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\UsingComparisonT.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\UsingComparisonT.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\UsingComparisonT.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\UsingComparisonT.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\UsingComparisonT.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\refint\UsingComparisonT.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\UsingComparisonT.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\UsingComparisonT.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\UsingComparisonT\UsingComparisonT\obj\Debug\net8.0\ref\UsingComparisonT.dll
