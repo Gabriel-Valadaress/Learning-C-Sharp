@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\bin\Debug\net8.0\Linq02.exe
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\bin\Debug\net8.0\Linq02.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\bin\Debug\net8.0\Linq02.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\bin\Debug\net8.0\Linq02.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\bin\Debug\net8.0\Linq02.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\Linq02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\Linq02.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\Linq02.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\Linq02.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\Linq02.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\Linq02.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\refint\Linq02.dll
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\Linq02.pdb
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\Linq02.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programacao\Learning-C-Sharp\13-Lambda-Delegates-LINQ\Linq02\Linq02\obj\Debug\net8.0\ref\Linq02.dll

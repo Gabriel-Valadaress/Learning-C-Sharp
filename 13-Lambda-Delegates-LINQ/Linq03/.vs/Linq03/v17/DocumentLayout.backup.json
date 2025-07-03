@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\Linq03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A82AE1-1BE2-4222-A321-4DA718A33427}|Linq03\\Linq03.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\13-lambda-delegates-linq\\linq03\\linq03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A82AE1-1BE2-4222-A321-4DA718A33427}|Linq03\\Linq03.csproj|solutionrelative:linq03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A82AE1-1BE2-4222-A321-4DA718A33427}|Linq03\\Linq03.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\13-lambda-delegates-linq\\linq03\\linq03\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A82AE1-1BE2-4222-A321-4DA718A33427}|Linq03\\Linq03.csproj|solutionrelative:linq03\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A82AE1-1BE2-4222-A321-4DA718A33427}|Linq03\\Linq03.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\learning-c-sharp\\13-lambda-delegates-linq\\linq03\\linq03\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A82AE1-1BE2-4222-A321-4DA718A33427}|Linq03\\Linq03.csproj|solutionrelative:linq03\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\Linq03\\Linq03\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Linq03\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\Linq03\\Linq03\\Entities\\Product.cs",
+              "RelativeToolTip": "Linq03\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:42:09.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\Linq03\\Linq03\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Linq03\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\Linq03\\Linq03\\Entities\\Category.cs",
+              "RelativeToolTip": "Linq03\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:42:03.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\Linq03\\Linq03\\Program.cs",
+              "RelativeDocumentMoniker": "Linq03\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\Learning-C-Sharp\\13-Lambda-Delegates-LINQ\\Linq03\\Linq03\\Program.cs",
+              "RelativeToolTip": "Linq03\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:41:49.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

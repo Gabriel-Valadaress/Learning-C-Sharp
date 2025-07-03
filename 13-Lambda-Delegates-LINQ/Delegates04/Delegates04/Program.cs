@@ -13,7 +13,9 @@ namespace Delegates04
             products.Add(new Product("Tablet", 350.50));
             products.Add(new Product("HD case", 80.90));
 
-            List<string> result = products.Select(p => p.Name.ToUpper()).ToList();
+            Func<Product, string> func = p => p.Name.ToUpper();
+
+            List<string> result = products.Select(func).ToList();
 
             foreach (string name in result)
             {
