@@ -11,8 +11,51 @@ public class King : Piece
     {
         List<Position> possibleMovement = new List<Position>();
 
-        if (Color == "White")
+        if (Position.Row > 1)
         {
+            possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
+
+            if (Position.Column > 1)
+            {
+                possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
+                possibleMovement.Add(new Position(Position.Row - 1, Position.Column - 1));
+            }
+
+            if (Position.Column < 8)
+            {
+                possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
+                possibleMovement.Add(new Position(Position.Row - 1, Position.Column + 1));
+            }
+
+            if (Position.Row < 8)
+            {
+                if (Position.Column > 1)
+                {
+                    possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
+                }
+
+                if (Position.Column < 8)
+                {
+                    possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
+                }
+                possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+            }
+        }
+        else
+        {
+            possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+
+            if (Position.Column > 1)
+            {
+                possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
+                possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
+            }
+
+            if (Position.Column < 8)
+            {
+                possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
+                possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
+            }
         }
 
         return possibleMovement;

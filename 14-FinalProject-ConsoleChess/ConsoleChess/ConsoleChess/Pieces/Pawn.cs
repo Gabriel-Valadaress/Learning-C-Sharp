@@ -13,6 +13,22 @@ public class Pawn : Piece
 
         if (Color == "White")
         {
+            if (Position.Row == 2)
+            {
+                possibleMovement.Add(new Position(Position.Row + 2, Position.Column));
+            }
+            possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+            
+        }
+
+        if (Color == "Black")
+        {
+            if (Position.Row == 7)
+            {
+                possibleMovement.Add(new Position(Position.Row - 2, Position.Column));
+            }
+            possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
+            
         }
 
         return possibleMovement;

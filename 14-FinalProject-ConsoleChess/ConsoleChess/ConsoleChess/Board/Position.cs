@@ -1,4 +1,5 @@
 using System;
+using ConsoleChess.Pieces;
 
 namespace ConsoleChess.Board;
 
@@ -11,5 +12,10 @@ public class Position
     {
         Row = row;
         Column = column;
+    }
+
+    public int PositionInTheList()
+    {
+        return ((Row - 1) * 8 + Column - 1);
     }
 }
