@@ -7,7 +7,7 @@ public class Pawn : Piece
 {
     public Pawn(string name, string color, Position position) : base(name, color, position) { }
 
-    public List<Position> PossibleMovement()
+    public override List<Position> PossibleMovement(Piece[] pieces)
     {
         List<Position> possibleMovement = new List<Position>();
 
@@ -15,20 +15,32 @@ public class Pawn : Piece
         {
             if (Position.Row == 2)
             {
-                possibleMovement.Add(new Position(Position.Row + 2, Position.Column));
+                if (pieces[((Position.Row + 2) - 1) * 8 + (Position.Column - 1)].Name == "-")
+                {
+                    possibleMovement.Add(new Position(Position.Row + 2, Position.Column));
+                }
             }
-            possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
             
+            if (pieces[((Position.Row + 1) - 1) * 8 + (Position.Column - 1)].Name == "-")
+            {
+                possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+            }
         }
 
         if (Color == "Black")
         {
             if (Position.Row == 7)
             {
-                possibleMovement.Add(new Position(Position.Row - 2, Position.Column));
+                if (pieces[((Position.Row - 2) - 1) * 8 + (Position.Column - 1)].Name == "-")
+                {
+                    possibleMovement.Add(new Position(Position.Row - 2, Position.Column));
+                }
             }
-            possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
             
+            if (pieces[((Position.Row - 1) - 1) * 8 + (Position.Column - 1)].Name == "-")
+            {
+                possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
+            }
         }
 
         return possibleMovement;

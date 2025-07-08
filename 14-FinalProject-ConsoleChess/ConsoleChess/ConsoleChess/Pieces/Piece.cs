@@ -15,4 +15,8 @@ public class Piece
         Color = color;
         Position = position;
     }
+    public virtual List<Position> PossibleMovement(Piece[] pieces)
+    {
+        return new List<Position>();
+    }
 }

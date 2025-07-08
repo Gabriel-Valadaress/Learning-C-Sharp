@@ -7,41 +7,73 @@ public class Rook : Piece
 {
     public Rook(string name, string color, Position position) : base(name, color, position) { }
 
-    public List<Position> PossibleMovement()
+    public override List<Position> PossibleMovement(Piece[] pieces)
     {
         List<Position> possibleMovement = new List<Position>();
 
-        possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
-        possibleMovement.Add(new Position(Position.Row + 2, Position.Column));
-        possibleMovement.Add(new Position(Position.Row + 3, Position.Column));
-        possibleMovement.Add(new Position(Position.Row + 4, Position.Column));
-        possibleMovement.Add(new Position(Position.Row + 5, Position.Column));
-        possibleMovement.Add(new Position(Position.Row + 6, Position.Column));
-        possibleMovement.Add(new Position(Position.Row + 7, Position.Column));
-        possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
-        possibleMovement.Add(new Position(Position.Row - 2, Position.Column));
-        possibleMovement.Add(new Position(Position.Row - 3, Position.Column));
-        possibleMovement.Add(new Position(Position.Row - 4, Position.Column));
-        possibleMovement.Add(new Position(Position.Row - 5, Position.Column));
-        possibleMovement.Add(new Position(Position.Row - 6, Position.Column));
-        possibleMovement.Add(new Position(Position.Row - 7, Position.Column));
-        possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
-        possibleMovement.Add(new Position(Position.Row, Position.Column + 2));
-        possibleMovement.Add(new Position(Position.Row, Position.Column + 3));
-        possibleMovement.Add(new Position(Position.Row, Position.Column + 4));
-        possibleMovement.Add(new Position(Position.Row, Position.Column + 5));
-        possibleMovement.Add(new Position(Position.Row, Position.Column + 6));
-        possibleMovement.Add(new Position(Position.Row, Position.Column + 7));
-        possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
-        possibleMovement.Add(new Position(Position.Row, Position.Column - 2));
-        possibleMovement.Add(new Position(Position.Row, Position.Column - 3));
-        possibleMovement.Add(new Position(Position.Row, Position.Column - 4));
-        possibleMovement.Add(new Position(Position.Row, Position.Column - 5));
-        possibleMovement.Add(new Position(Position.Row, Position.Column - 6));
-        possibleMovement.Add(new Position(Position.Row, Position.Column - 7));
+        for (int i = 1; i < 8; i++)
+        {
+            if (Position.Row + i > 8)
+            {
+                break;
+            }
+            if (pieces[((Position.Row + i) - 1) * 8 + (Position.Column - 1)].Name == "-")
+            {
+                possibleMovement.Add(new Position(Position.Row + i, Position.Column));
+            }
+            else
+            {
+                break;
+            }
+        }
 
-        possibleMovement.RemoveAll(p => p.Row > 8 || p.Row < 1);
-        possibleMovement.RemoveAll(p => p.Column > 8 || p.Column < 1);
+        for (int i = 1; i < 8; i++)
+        {
+            if (Position.Row - i < 1)
+            {
+                break;
+            }
+            if (pieces[((Position.Row - i) - 1) * 8 + (Position.Column - 1)].Name == "-")
+            {
+                possibleMovement.Add(new Position(Position.Row - i, Position.Column));
+            }
+            else
+            {
+                break;
+            }
+        }
+
+        for (int i = 1; i < 8; i++)
+        {
+            if (Position.Column + i > 8)
+            {
+                break;
+            }
+            if (pieces[(Position.Row - 1) * 8 + ((Position.Column + i) - 1)].Name == "-")
+            {
+                possibleMovement.Add(new Position(Position.Row, Position.Column + i));
+            }
+            else
+            {
+                break;
+            }
+        }
+        
+        for (int i = 1; i < 8; i++)
+        {
+            if (Position.Column - i < 1)
+            {
+                break;
+            }
+            if (pieces[(Position.Row - 1) * 8 + ((Position.Column - i) - 1)].Name == "-")
+            {
+                possibleMovement.Add(new Position(Position.Row, Position.Column - i));
+            }
+            else
+            {
+                break;
+            }
+        }
 
         return possibleMovement;
     }
