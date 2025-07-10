@@ -21,8 +21,20 @@ public class Bishop : Piece
             {
                 possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
+                }
                 break;
             }
         }
@@ -37,8 +49,20 @@ public class Bishop : Piece
             {
                 possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
             }
+            else if (Color == "White")
+            {
+                if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
+                }
+                break;
+            }
             else
             {
+                if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
+                }
                 break;
             }
         }
@@ -53,8 +77,20 @@ public class Bishop : Piece
             {
                 possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
             }
+            else if (Color == "White")
+            {
+                if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
+                }
+                break;
+            }
             else
             {
+                if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
+                }
                 break;
             }
         }
@@ -69,8 +105,20 @@ public class Bishop : Piece
             {
                 possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
             }
+            else if (Color == "White")
+            {
+                if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
+                }
+                break;
+            }
             else
             {
+                if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
+                }
                 break;
             }
         }

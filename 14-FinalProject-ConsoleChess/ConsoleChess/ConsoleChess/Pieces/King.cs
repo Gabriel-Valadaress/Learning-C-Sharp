@@ -17,17 +17,59 @@ public class King : Piece
             {
                 possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
             }
-            
+            else if (Color == "White")
+            {
+                if (pieces[((Position.Row - 1) - 1) * 8 + (Position.Column - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
+                }
+            }
+            else
+            {
+                if (pieces[((Position.Row - 1) - 1) * 8 + (Position.Column - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
+                }
+            }
+
             if (Position.Column > 1)
             {
                 if (pieces[(Position.Row - 1) * 8 + ((Position.Column - 1) - 1)].Name == "-")
                 {
                     possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
                 }
+                else if (Color == "White")
+                {
+                    if (pieces[(Position.Row - 1) * 8 + ((Position.Column - 1) - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
+                    }
+                }
+                else
+                {
+                    if (pieces[(Position.Row - 1) * 8 + ((Position.Column - 1) - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
+                    }
+                }
 
                 if (pieces[((Position.Row - 1) - 1) * 8 + ((Position.Column - 1) - 1)].Name == "-")
                 {
                     possibleMovement.Add(new Position(Position.Row - 1, Position.Column - 1));
+                }
+                else if (Color == "White")
+                {
+                    if (pieces[((Position.Row - 1) - 1) * 8 + ((Position.Column - 1) - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row - 1, Position.Column - 1));
+                    }
+                }
+                else
+                {
+                    if (pieces[((Position.Row - 1) - 1) * 8 + ((Position.Column - 1) - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row - 1, Position.Column - 1));
+                    }
                 }
             }
 
@@ -37,10 +79,38 @@ public class King : Piece
                 {
                     possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
                 }
+                else if (Color == "White")
+                {
+                    if (pieces[(Position.Row - 1) * 8 + ((Position.Column + 1) - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
+                    }
+                }
+                else
+                {
+                    if (pieces[(Position.Row - 1) * 8 + ((Position.Column + 1) - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
+                    }
+                }
 
                 if (pieces[((Position.Row - 1) - 1) * 8 + ((Position.Column + 1) - 1)].Name == "-")
                 {
                     possibleMovement.Add(new Position(Position.Row - 1, Position.Column + 1));
+                }
+                else if (Color == "White")
+                {
+                    if (pieces[((Position.Row - 1) - 1) * 8 + ((Position.Column + 1) - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row - 1, Position.Column + 1));
+                    }
+                }
+                else
+                {
+                    if (pieces[((Position.Row - 1) - 1) * 8 + ((Position.Column + 1) - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row - 1, Position.Column + 1));
+                    }
                 }
             }
 
@@ -52,6 +122,20 @@ public class King : Piece
                     {
                         possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
                     }
+                    else if (Color == "White")
+                    {
+                        if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column - 1) - 1)].Color == "Black")
+                        {
+                            possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
+                        }
+                    }
+                    else
+                    {
+                        if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column - 1) - 1)].Color == "White")
+                        {
+                            possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
+                        }
+                    }
                 }
 
                 if (Position.Column < 8)
@@ -60,11 +144,39 @@ public class King : Piece
                     {
                         possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
                     }
+                    else if (Color == "White")
+                    {
+                        if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column + 1) - 1)].Color == "Black")
+                        {
+                            possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
+                        }
+                    }
+                    else
+                    {
+                        if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column + 1) - 1)].Color == "White")
+                        {
+                            possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
+                        }
+                    }
                 }
 
                 if (pieces[((Position.Row + 1) - 1) * 8 + (Position.Column - 1)].Name == "-")
                 {
                     possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+                }
+                else if (Color == "White")
+                {
+                    if (pieces[((Position.Row + 1) - 1) * 8 + (Position.Column - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+                    }
+                }
+                else
+                {
+                    if (pieces[((Position.Row - 1) - 1) * 8 + (Position.Column - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+                    }
                 }
             }
         }
@@ -74,6 +186,20 @@ public class King : Piece
             {
                 possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
             }
+            else if (Color == "White")
+            {
+                if (pieces[((Position.Row + 1) - 1) * 8 + (Position.Column - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+                }
+            }
+            else
+            {
+                if (pieces[((Position.Row - 1) - 1) * 8 + (Position.Column - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+                }
+            }
 
             if (Position.Column > 1)
             {
@@ -81,10 +207,38 @@ public class King : Piece
                 {
                     possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
                 }
+                else if (Color == "White")
+                {
+                    if (pieces[(Position.Row - 1) * 8 + ((Position.Column - 1) - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
+                    }
+                }
+                else
+                {
+                    if (pieces[(Position.Row - 1) * 8 + ((Position.Column - 1) - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row, Position.Column - 1));
+                    }
+                }
 
                 if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column - 1) - 1)].Name == "-")
                 {
                     possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
+                }
+                else if (Color == "White")
+                {
+                    if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column - 1) - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
+                    }
+                }
+                else
+                {
+                    if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column - 1) - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
+                    }
                 }
             }
 
@@ -94,10 +248,38 @@ public class King : Piece
                 {
                     possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
                 }
+                else if (Color == "White")
+                {
+                    if (pieces[(Position.Row - 1) * 8 + ((Position.Column + 1) - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
+                    }
+                }
+                else
+                {
+                    if (pieces[(Position.Row - 1) * 8 + ((Position.Column + 1) - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
+                    }
+                }//****************
 
                 if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column + 1) - 1)].Name == "-")
                 {
                     possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
+                }
+                else if (Color == "White")
+                {
+                    if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column + 1) - 1)].Color == "Black")
+                    {
+                        possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
+                    }
+                }
+                else
+                {
+                    if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column + 1) - 1)].Color == "White")
+                    {
+                        possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
+                    }
                 }
             }
         }

@@ -20,10 +20,20 @@ public class Pawn : Piece
                     possibleMovement.Add(new Position(Position.Row + 2, Position.Column));
                 }
             }
-            
+
             if (pieces[((Position.Row + 1) - 1) * 8 + (Position.Column - 1)].Name == "-")
             {
                 possibleMovement.Add(new Position(Position.Row + 1, Position.Column));
+            }
+
+            if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column + 1) - 1)].Color == "Black")
+            {
+                possibleMovement.Add(new Position(Position.Row + 1, Position.Column + 1));
+            }
+            
+            if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column - 1) - 1)].Color == "Black")
+            {
+                possibleMovement.Add(new Position(Position.Row + 1, Position.Column - 1));
             }
         }
 
@@ -36,10 +46,20 @@ public class Pawn : Piece
                     possibleMovement.Add(new Position(Position.Row - 2, Position.Column));
                 }
             }
-            
+
             if (pieces[((Position.Row - 1) - 1) * 8 + (Position.Column - 1)].Name == "-")
             {
                 possibleMovement.Add(new Position(Position.Row - 1, Position.Column));
+            }
+            
+            if (pieces[((Position.Row - 1) - 1) * 8 + ((Position.Column + 1) - 1)].Color == "White")
+            {
+                possibleMovement.Add(new Position(Position.Row - 1, Position.Column + 1));
+            }
+            
+            if (pieces[((Position.Row - 1) - 1) * 8 + ((Position.Column - 1) - 1)].Color == "White")
+            {
+                possibleMovement.Add(new Position(Position.Row - 1, Position.Column - 1));
             }
         }
 

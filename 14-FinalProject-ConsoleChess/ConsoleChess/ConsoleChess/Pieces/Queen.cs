@@ -21,8 +21,20 @@ public class Queen : Piece
             {
                 possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
+                }
                 break;
             }
         }
@@ -37,8 +49,20 @@ public class Queen : Piece
             {
                 possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
+                }
                 break;
             }
         }
@@ -53,8 +77,20 @@ public class Queen : Piece
             {
                 possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
+                }
                 break;
             }
         }
@@ -69,8 +105,20 @@ public class Queen : Piece
             {
                 possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
+                }
                 break;
             }
         }
@@ -85,8 +133,20 @@ public class Queen : Piece
             {
                 possibleMovement.Add(new Position(Position.Row + i, Position.Column));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[((Position.Row + i) - 1) * 8 + (Position.Column - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[((Position.Row + i) - 1) * 8 + (Position.Column - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row + i, Position.Column));
+                }
                 break;
             }
         }
@@ -101,8 +161,20 @@ public class Queen : Piece
             {
                 possibleMovement.Add(new Position(Position.Row - i, Position.Column));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[((Position.Row - i) - 1) * 8 + (Position.Column - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[((Position.Row - i) - 1) * 8 + (Position.Column - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row - i, Position.Column));
+                }
                 break;
             }
         }
@@ -117,8 +189,20 @@ public class Queen : Piece
             {
                 possibleMovement.Add(new Position(Position.Row, Position.Column + i));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[(Position.Row - 1) * 8 + ((Position.Column + i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row, Position.Column + i));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[(Position.Row - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row, Position.Column + i));
+                }
                 break;
             }
         }
@@ -133,8 +217,20 @@ public class Queen : Piece
             {
                 possibleMovement.Add(new Position(Position.Row, Position.Column - i));
             }
-            else
+            else if (Color == "White")
             {
+                if (pieces[(Position.Row - 1) * 8 + ((Position.Column - i) - 1)].Color == "Black")
+                {
+                    possibleMovement.Add(new Position(Position.Row, Position.Column - i));
+                }
+                break;
+            }
+            else 
+            {
+                if (pieces[(Position.Row - 1) * 8 + ((Position.Column - i) - 1)].Color == "White")
+                {
+                    possibleMovement.Add(new Position(Position.Row, Position.Column - i));
+                }
                 break;
             }
         }
