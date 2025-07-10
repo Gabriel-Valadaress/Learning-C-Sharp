@@ -209,7 +209,7 @@ public class Queen : Piece
         
         for (int i = 1; i < 8; i++)
         {
-            if (Position.Column - i > 8)
+            if (Position.Column - i < 1)
             {
                 break;
             }

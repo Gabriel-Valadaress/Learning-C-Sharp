@@ -68,9 +68,50 @@ namespace ConsoleChess
 						futureColumn = char.ToLower(futurePosition[0]) - 'a' + 1;
 						futureRow = char.ToLower(futurePosition[1]) - 48;
 						futurePositionInTheArray = Position.PositionInTheList(new Position(futureRow, futureColumn));
-						pieces[futurePositionInTheArray] = pieces[positionInTheArray];
-						pieces[futurePositionInTheArray].Position = new Position(futureRow, futureColumn);
-						pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
+
+						if ((futureRow == 8 || futureRow == 1) && pieces[positionInTheArray].Name == "P")
+						{
+							System.Console.Write("Promoção do peão.\n1 - Dama\n2 - Bispo\n3 - Cavalo\n4 - Torre\nEscolha a opção desejada: ");
+							string promotionOption = Console.ReadLine()!;
+							while (true)
+							{
+								if (promotionOption == "1")
+								{
+									pieces[futurePositionInTheArray] = new Queen("Q", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
+									pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
+									break;
+								}
+								else if (promotionOption == "2")
+								{
+									pieces[futurePositionInTheArray] = new Bishop("B", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
+									pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
+									break;
+								}
+								else if (promotionOption == "3")
+								{
+									pieces[futurePositionInTheArray] = new Knight("N", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
+									pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
+									break;
+								}
+								else if (promotionOption == "4")
+								{
+									pieces[futurePositionInTheArray] = new Rook("R", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
+									pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
+									break;
+								}
+								Console.Clear();
+								Screen.ShowBoardAfter(pieces, positionInTheArray);
+								System.Console.Write("Opção inválida\nPromoção do peão.\n1 - Dama\n2 - Bispo\n3 - Cavalo\n4 - Torre\nEscolha a opção desejada: ");
+								promotionOption = Console.ReadLine()!;
+							}
+						}
+						else
+						{
+							pieces[futurePositionInTheArray] = pieces[positionInTheArray];
+							pieces[futurePositionInTheArray].Position = new Position(futureRow, futureColumn);
+							pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
+						}
+
 						if (turn == 0)
 						{
 							turn = 1;

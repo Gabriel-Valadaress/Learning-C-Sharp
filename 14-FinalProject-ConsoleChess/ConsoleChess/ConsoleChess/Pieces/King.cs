@@ -261,7 +261,7 @@ public class King : Piece
                     {
                         possibleMovement.Add(new Position(Position.Row, Position.Column + 1));
                     }
-                }//****************
+                }
 
                 if (pieces[((Position.Row + 1) - 1) * 8 + ((Position.Column + 1) - 1)].Name == "-")
                 {
