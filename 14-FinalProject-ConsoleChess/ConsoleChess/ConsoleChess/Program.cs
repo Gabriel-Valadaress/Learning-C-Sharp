@@ -75,42 +75,55 @@ namespace ConsoleChess
 							string promotionOption = Console.ReadLine()!;
 							while (true)
 							{
-								if (promotionOption == "1")
+								switch (promotionOption)
 								{
-									pieces[futurePositionInTheArray] = new Queen("Q", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
-									pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
-									break;
+									case "1":
+										pieces[futurePositionInTheArray] = new Queen("Q", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
+										break;
+									case "2":
+										pieces[futurePositionInTheArray] = new Bishop("B", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
+										break;
+									case "3":
+										pieces[futurePositionInTheArray] = new Knight("N", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
+										break;
+									case "4":
+										pieces[futurePositionInTheArray] = new Rook("R", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
+										break;
+									default:
+										Console.Clear();
+										Screen.ShowBoardAfter(pieces, positionInTheArray);
+										Console.Write("Opção inválida\nPromoção do peão.\n1 - Dama\n2 - Bispo\n3 - Cavalo\n4 - Torre\nEscolha a opção desejada: ");
+										promotionOption = Console.ReadLine()!;
+										continue;
 								}
-								else if (promotionOption == "2")
-								{
-									pieces[futurePositionInTheArray] = new Bishop("B", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
-									pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
-									break;
-								}
-								else if (promotionOption == "3")
-								{
-									pieces[futurePositionInTheArray] = new Knight("N", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
-									pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
-									break;
-								}
-								else if (promotionOption == "4")
-								{
-									pieces[futurePositionInTheArray] = new Rook("R", pieces[positionInTheArray].Color, new Position(futureRow, futureColumn));
-									pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
-									break;
-								}
-								Console.Clear();
-								Screen.ShowBoardAfter(pieces, positionInTheArray);
-								System.Console.Write("Opção inválida\nPromoção do peão.\n1 - Dama\n2 - Bispo\n3 - Cavalo\n4 - Torre\nEscolha a opção desejada: ");
-								promotionOption = Console.ReadLine()!;
+								break;
 							}
+						}
+						else if (pieces[positionInTheArray].Name == "K" &&
+						futureColumn - pieces[positionInTheArray].Position.Column == 2 &&
+						futureColumn > pieces[positionInTheArray].Position.Column)
+						{
+							pieces[futurePositionInTheArray] = pieces[positionInTheArray];
+							pieces[futurePositionInTheArray].Position = new Position(futureRow, futureColumn);
+							pieces[Position.PositionInTheList(new Position(futureRow, futureColumn - 1))] = pieces[Position.PositionInTheList(new Position(futureRow, futureColumn + 1))];
+							pieces[Position.PositionInTheList(new Position(futureRow, futureColumn + 1))] = pieces[positionInTheArray] = new Piece("-", "Empty", new Position(futureRow, futureColumn + 1));
+						}
+						else if (pieces[positionInTheArray].Name == "K" &&
+						futureColumn - pieces[positionInTheArray].Position.Column == -2 &&
+						futureColumn < pieces[positionInTheArray].Position.Column)
+						{
+							pieces[futurePositionInTheArray] = pieces[positionInTheArray];
+							pieces[futurePositionInTheArray].Position = new Position(futureRow, futureColumn);
+							pieces[Position.PositionInTheList(new Position(futureRow, futureColumn + 1))] = pieces[Position.PositionInTheList(new Position(futureRow, futureColumn - 2))];
+							pieces[Position.PositionInTheList(new Position(futureRow, futureColumn - 2))] = pieces[positionInTheArray] = new Piece("-", "Empty", new Position(futureRow, futureColumn - 2));
 						}
 						else
 						{
 							pieces[futurePositionInTheArray] = pieces[positionInTheArray];
 							pieces[futurePositionInTheArray].Position = new Position(futureRow, futureColumn);
-							pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
 						}
+						pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
+						pieces[futurePositionInTheArray].InitialPosition = false;
 
 						if (turn == 0)
 						{

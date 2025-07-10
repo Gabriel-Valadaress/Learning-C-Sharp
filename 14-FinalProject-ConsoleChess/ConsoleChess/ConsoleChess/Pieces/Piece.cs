@@ -8,6 +8,7 @@ public class Piece
     public string Name { get; set; }
     public string Color { get; set; }
     public Position Position { get; set; }
+    public bool InitialPosition { get; set; } = true;
 
     public Piece(string name, string color, Position position)
     {
