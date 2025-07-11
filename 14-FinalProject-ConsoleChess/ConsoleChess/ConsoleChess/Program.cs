@@ -10,6 +10,7 @@ namespace ConsoleChess
 		{
 			Piece[] pieces = InitialPosition();
 			int turn = 0;
+			int turnCount = 1;
 
 			while (true)
 			{
@@ -18,12 +19,12 @@ namespace ConsoleChess
 				string color;
 				if (turn == 0)
 				{
-					System.Console.WriteLine("É a vez das Brancas");
+					System.Console.WriteLine($"Turno {turnCount}: É a vez das Brancas");
 					color = "White";
 				}
 				else
 				{
-					System.Console.WriteLine("É a vez das Pretas");
+					System.Console.WriteLine($"Turno {turnCount}: É a vez das Pretas");
 					color = "Black";
 				}
 
@@ -49,7 +50,7 @@ namespace ConsoleChess
 				}
 
 				Console.Clear();
-				Screen.ShowBoardAfter(pieces, positionInTheArray);
+				Screen.ShowBoardAfter(pieces, positionInTheArray, turnCount);
 				System.Console.WriteLine("Agora selecione a casa que deseja avançar (Ex.: e4).\nPara voltar digite 'voltar': ");
 
 				string futurePosition;
@@ -63,7 +64,7 @@ namespace ConsoleChess
 					{
 						break;
 					}
-					if (ValidSquareSelection(futurePosition, pieces, oldRow, oldColumn))
+					if (ValidSquareSelection(futurePosition, pieces, oldRow, oldColumn, turnCount))
 					{
 						futureColumn = char.ToLower(futurePosition[0]) - 'a' + 1;
 						futureRow = char.ToLower(futurePosition[1]) - 48;
@@ -91,7 +92,7 @@ namespace ConsoleChess
 										break;
 									default:
 										Console.Clear();
-										Screen.ShowBoardAfter(pieces, positionInTheArray);
+										Screen.ShowBoardAfter(pieces, positionInTheArray, turnCount);
 										Console.Write("Opção inválida\nPromoção do peão.\n1 - Dama\n2 - Bispo\n3 - Cavalo\n4 - Torre\nEscolha a opção desejada: ");
 										promotionOption = Console.ReadLine()!;
 										continue;
@@ -117,6 +118,14 @@ namespace ConsoleChess
 							pieces[Position.PositionInTheList(new Position(futureRow, futureColumn + 1))] = pieces[Position.PositionInTheList(new Position(futureRow, futureColumn - 2))];
 							pieces[Position.PositionInTheList(new Position(futureRow, futureColumn - 2))] = pieces[positionInTheArray] = new Piece("-", "Empty", new Position(futureRow, futureColumn - 2));
 						}
+						else if (pieces[positionInTheArray].Name == "P" &&
+						futureColumn != pieces[positionInTheArray].Position.Column &&
+						pieces[futurePositionInTheArray].Name == "-")
+						{
+							pieces[futurePositionInTheArray] = pieces[positionInTheArray];
+							pieces[futurePositionInTheArray].Position = new Position(futureRow, futureColumn);
+							pieces[(oldRow - 1) * 8 + (futureColumn - 1)] = new Piece("-", "Empty", new Position(oldRow, futureColumn));
+						}
 						else
 						{
 							pieces[futurePositionInTheArray] = pieces[positionInTheArray];
@@ -124,6 +133,7 @@ namespace ConsoleChess
 						}
 						pieces[positionInTheArray] = new Piece("-", "Empty", new Position(oldRow, oldColumn));
 						pieces[futurePositionInTheArray].InitialPosition = false;
+						pieces[futurePositionInTheArray].TurnOfLastMovement = turnCount;
 
 						if (turn == 0)
 						{
@@ -133,10 +143,11 @@ namespace ConsoleChess
 						{
 							turn = 0;
 						}
+						turnCount++;
 						break;
 					}
 					Console.Clear();
-					Screen.ShowBoardAfter(pieces, positionInTheArray);
+					Screen.ShowBoardAfter(pieces, positionInTheArray, turnCount);
 					System.Console.WriteLine("Opção invalida!\nAgora selecione a casa que deseja avançar (Ex.: e4).\nPara voltar digite 'voltar': ");
 				}
 			}
@@ -173,7 +184,7 @@ namespace ConsoleChess
 			}
 		}
 
-		static bool ValidSquareSelection(string input, Piece[] pieces, int initialRow, int initialColumn)
+		static bool ValidSquareSelection(string input, Piece[] pieces, int initialRow, int initialColumn, int turnCount)
 		{
 			if (string.IsNullOrWhiteSpace(input) || input.Length != 2)
 			{
@@ -191,7 +202,7 @@ namespace ConsoleChess
 				int columnNumber = char.ToLower(row)  - 'a' + 1;
 				int rowNumber = column - 48;
 
-				if (pieces[(initialRow - 1) * 8 + (initialColumn - 1)].PossibleMovement(pieces).Contains(new Position(rowNumber, columnNumber)))
+				if (pieces[(initialRow - 1) * 8 + (initialColumn - 1)].PossibleMovement(pieces, turnCount).Contains(new Position(rowNumber, columnNumber)))
 				{
 					return true;
 				}

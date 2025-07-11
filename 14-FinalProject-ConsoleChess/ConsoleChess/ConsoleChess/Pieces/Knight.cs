@@ -8,7 +8,7 @@ public class Knight : Piece
 {
     public Knight(string name, string color, Position position) : base(name, color, position) { }
 
-    public override List<Position> PossibleMovement(Piece[] pieces)
+    public override List<Position> PossibleMovement(Piece[] pieces, int turnCount)
     {
         List<Position> possibleMovement = new List<Position>();
 

@@ -9,6 +9,7 @@ public class Piece
     public string Color { get; set; }
     public Position Position { get; set; }
     public bool InitialPosition { get; set; } = true;
+    public int TurnOfLastMovement { get; set; } = 0;
 
     public Piece(string name, string color, Position position)
     {
@@ -16,7 +17,7 @@ public class Piece
         Color = color;
         Position = position;
     }
-    public virtual List<Position> PossibleMovement(Piece[] pieces)
+    public virtual List<Position> PossibleMovement(Piece[] pieces, int turnCount)
     {
         return new List<Position>();
     }
