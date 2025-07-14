@@ -17,8 +17,8 @@ public class Piece
         Color = color;
         Position = position;
     }
-    public virtual List<Position> PossibleMovement(Piece[] pieces, int turnCount)
+    public virtual HashSet<int> PossibleMovement(Piece[] pieces, int turnCount)
     {
-        return new List<Position>();
+        return new HashSet<int>();
     }
 }

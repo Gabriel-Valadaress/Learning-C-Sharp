@@ -1,6 +1,7 @@
 ﻿using System.Runtime.ConstrainedExecution;
 using ConsoleChess.Board;
 using ConsoleChess.Pieces;
+using ConsoleChess.Services;
 
 namespace ConsoleChess
 {
@@ -9,7 +10,6 @@ namespace ConsoleChess
 		static void Main(string[] args)
 		{
 			Piece[] pieces = InitialPosition();
-			int turn = 0;
 			int turnCount = 1;
 
 			while (true)
@@ -17,7 +17,7 @@ namespace ConsoleChess
 				Console.Clear();
 				Screen.ShowBoard(pieces);
 				string color;
-				if (turn == 0)
+				if (turnCount % 2 != 0)
 				{
 					System.Console.WriteLine($"Turno {turnCount}: É a vez das Brancas");
 					color = "White";
@@ -26,6 +26,12 @@ namespace ConsoleChess
 				{
 					System.Console.WriteLine($"Turno {turnCount}: É a vez das Pretas");
 					color = "Black";
+				}
+
+				//Verificar se está em posição de check, se sim tem que defender
+				if (VerifyCheck.verifyCheck(pieces, turnCount))
+				{
+					System.Console.WriteLine("Está em cheque");
 				}
 
 				System.Console.WriteLine("Escolha a posição da peça que deseja movimentar (Ex.: e4): ");
@@ -57,6 +63,9 @@ namespace ConsoleChess
 				int futurePositionInTheArray;
 				int futureColumn;
 				int futureRow;
+
+				//Verificar se mexer a peça não vai resultar em um check descoberto
+
 				while (true)
 				{
 					futurePosition = Console.ReadLine()!;
@@ -135,14 +144,7 @@ namespace ConsoleChess
 						pieces[futurePositionInTheArray].InitialPosition = false;
 						pieces[futurePositionInTheArray].TurnOfLastMovement = turnCount;
 
-						if (turn == 0)
-						{
-							turn = 1;
-						}
-						else
-						{
-							turn = 0;
-						}
+						//Verificar check-mate
 						turnCount++;
 						break;
 					}
@@ -202,7 +204,7 @@ namespace ConsoleChess
 				int columnNumber = char.ToLower(row)  - 'a' + 1;
 				int rowNumber = column - 48;
 
-				if (pieces[(initialRow - 1) * 8 + (initialColumn - 1)].PossibleMovement(pieces, turnCount).Contains(new Position(rowNumber, columnNumber)))
+				if (pieces[(initialRow - 1) * 8 + (initialColumn - 1)].PossibleMovement(pieces, turnCount).Contains(Position.PositionInTheList(new Position(rowNumber, columnNumber))))
 				{
 					return true;
 				}

@@ -81,7 +81,7 @@ namespace ConsoleChess.Board
 
                     bool whiteSquare = (row + col) % 2 == 0;
 
-                    List<int> possiblePositions = ConvertListPositionToListInt.Convert(pieces[positionInTheArray].PossibleMovement(pieces, turnCount));
+                    HashSet<int> possiblePositions = ConvertHashSetPositionToHashSetInt.Convert(pieces[positionInTheArray].PossibleMovement(pieces, turnCount));
 
                     if (id == positionInTheArray)
                     {

@@ -3,11 +3,11 @@ using ConsoleChess.Board;
 
 namespace ConsoleChess.Services;
 
-public static class ConvertListPositionToListInt
+public static class ConvertHashSetPositionToHashSetInt
 {
-    public static List<int> Convert(List<Position> positions) {
+    public static HashSet<int> Convert(HashSet<Position> positions) {
 
-        List<int> list = new List<int>();
+        HashSet<int> list = new HashSet<int>();
 
         foreach (Position position in positions)
         {

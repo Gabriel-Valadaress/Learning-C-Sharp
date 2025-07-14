@@ -7,9 +7,9 @@ public class Bishop : Piece
 {
     public Bishop(string name, string color, Position position) : base(name, color, position) { }
 
-    public override List<Position> PossibleMovement(Piece[] pieces, int turnCount)
+    public override HashSet<int> PossibleMovement(Piece[] pieces, int turnCount)
     {
-        List<Position> possibleMovement = new List<Position>();
+        HashSet<int> possibleMovement = new HashSet<int>();
 
         for (int i = 1; i < 8; i++)
         {
@@ -19,13 +19,13 @@ public class Bishop : Piece
             }
             if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column + i) - 1)].Name == "-")
             {
-                possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
+                possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row + i, Position.Column + i)));
             }
             else if (Color == "White")
             {
                 if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "Black")
                 {
-                    possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
+                    possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row + i, Position.Column + i)));
                 }
                 break;
             }
@@ -33,7 +33,7 @@ public class Bishop : Piece
             {
                 if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
                 {
-                    possibleMovement.Add(new Position(Position.Row + i, Position.Column + i));
+                    possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row + i, Position.Column + i)));
                 }
                 break;
             }
@@ -47,13 +47,13 @@ public class Bishop : Piece
             }
             if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column - i) - 1)].Name == "-")
             {
-                possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
+                possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row + i, Position.Column - i)));
             }
             else if (Color == "White")
             {
                 if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "Black")
                 {
-                    possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
+                    possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row + i, Position.Column - i)));
                 }
                 break;
             }
@@ -61,7 +61,7 @@ public class Bishop : Piece
             {
                 if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "White")
                 {
-                    possibleMovement.Add(new Position(Position.Row + i, Position.Column - i));
+                    possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row + i, Position.Column - i)));
                 }
                 break;
             }
@@ -75,13 +75,13 @@ public class Bishop : Piece
             }
             if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column + i) - 1)].Name == "-")
             {
-                possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
+                possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row - i, Position.Column + i)));
             }
             else if (Color == "White")
             {
                 if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "Black")
                 {
-                    possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
+                    possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row - i, Position.Column + i)));
                 }
                 break;
             }
@@ -89,7 +89,7 @@ public class Bishop : Piece
             {
                 if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
                 {
-                    possibleMovement.Add(new Position(Position.Row - i, Position.Column + i));
+                    possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row - i, Position.Column + i)));
                 }
                 break;
             }
@@ -103,13 +103,13 @@ public class Bishop : Piece
             }
             if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column - i) - 1)].Name == "-")
             {
-                possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
+                possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row - i, Position.Column - i)));
             }
             else if (Color == "White")
             {
                 if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "Black")
                 {
-                    possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
+                    possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row - i, Position.Column - i)));
                 }
                 break;
             }
@@ -117,7 +117,7 @@ public class Bishop : Piece
             {
                 if (pieces[((Position.Row - i) - 1) * 8 + ((Position.Column - i) - 1)].Color == "White")
                 {
-                    possibleMovement.Add(new Position(Position.Row - i, Position.Column - i));
+                    possibleMovement.Add(Position.PositionInTheList(new Position(Position.Row - i, Position.Column - i)));
                 }
                 break;
             }
