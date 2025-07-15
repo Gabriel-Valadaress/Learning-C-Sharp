@@ -7,6 +7,13 @@ public class Pawn : Piece
 {
     public Pawn(string name, string color, Position position) : base(name, color, position) { }
 
+    public Pawn(string name, string color, Position position, bool initialPosition, int turnOfLastMovement) : base(name, color, position, initialPosition, turnOfLastMovement) { }
+
+    public override Piece Clone()
+    {
+        return new Pawn(Name, Color, new Position(Position.Row, Position.Column), InitialPosition, TurnOfLastMovement);
+    }
+
     public override HashSet<int> PossibleMovement(Piece[] pieces, int turnCount)
     {
         HashSet<int> possibleMovement = new HashSet<int>();

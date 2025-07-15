@@ -6,6 +6,13 @@ namespace ConsoleChess.Pieces;
 public class Rook : Piece
 {
     public Rook(string name, string color, Position position) : base(name, color, position) { }
+    
+    public Rook(string name, string color, Position position, bool initialPosition, int turnOfLastMovement) : base(name, color, position, initialPosition, turnOfLastMovement) { }
+
+    public override Piece Clone()
+    {
+        return new Rook(Name, Color, new Position(Position.Row, Position.Column), InitialPosition, TurnOfLastMovement);
+    }
 
     public override HashSet<int> PossibleMovement(Piece[] pieces, int turnCount)
     {
@@ -29,7 +36,7 @@ public class Rook : Piece
                 }
                 break;
             }
-            else 
+            else
             {
                 if (pieces[((Position.Row + i) - 1) * 8 + (Position.Column - 1)].Color == "White")
                 {
@@ -57,7 +64,7 @@ public class Rook : Piece
                 }
                 break;
             }
-            else 
+            else
             {
                 if (pieces[((Position.Row - i) - 1) * 8 + (Position.Column - 1)].Color == "White")
                 {
@@ -85,7 +92,7 @@ public class Rook : Piece
                 }
                 break;
             }
-            else 
+            else
             {
                 if (pieces[(Position.Row - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
                 {
@@ -113,7 +120,7 @@ public class Rook : Piece
                 }
                 break;
             }
-            else 
+            else
             {
                 if (pieces[(Position.Row - 1) * 8 + ((Position.Column - i) - 1)].Color == "White")
                 {

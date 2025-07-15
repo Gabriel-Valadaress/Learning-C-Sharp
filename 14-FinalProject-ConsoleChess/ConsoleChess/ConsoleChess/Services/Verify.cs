@@ -5,9 +5,9 @@ using ConsoleChess.Pieces;
 
 namespace ConsoleChess.Services;
 
-public static class VerifyCheck
+public static class Verify
 {
-    public static bool verifyCheck(Piece[] pieces, int turnCount)
+    public static bool VerifyCheck(Piece[] pieces, int turnCount)
     {
         if (turnCount % 2 != 0)
         {

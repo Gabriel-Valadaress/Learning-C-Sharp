@@ -1,11 +1,19 @@
 using System;
 using ConsoleChess.Board;
+using ConsoleChess.Services;
 
 namespace ConsoleChess.Pieces;
 
 public class Bishop : Piece
 {
     public Bishop(string name, string color, Position position) : base(name, color, position) { }
+
+    public Bishop(string name, string color, Position position, bool initialPosition, int turnOfLastMovement) : base(name, color, position, initialPosition, turnOfLastMovement) { }
+
+    public override Piece Clone()
+    {
+        return new Bishop(Name, Color, new Position(Position.Row, Position.Column), InitialPosition, TurnOfLastMovement);
+    }
 
     public override HashSet<int> PossibleMovement(Piece[] pieces, int turnCount)
     {
@@ -29,7 +37,7 @@ public class Bishop : Piece
                 }
                 break;
             }
-            else 
+            else
             {
                 if (pieces[((Position.Row + i) - 1) * 8 + ((Position.Column + i) - 1)].Color == "White")
                 {
@@ -122,7 +130,7 @@ public class Bishop : Piece
                 break;
             }
         }
-        
+
         return possibleMovement;
     }
 }

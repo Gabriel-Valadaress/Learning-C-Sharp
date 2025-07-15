@@ -64,6 +64,7 @@ namespace ConsoleChess.Board
 
         public static void ShowBoardAfter(Piece[] pieces, int positionInTheArray, int turnCount)
         {
+            HashSet<int> possiblePositions = pieces[positionInTheArray].PossibleMovementAfter(pieces, turnCount);
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("   a  b  c  d  e  f  g  h");
             Console.ResetColor();
@@ -80,8 +81,6 @@ namespace ConsoleChess.Board
                     Piece p = pieces[id];
 
                     bool whiteSquare = (row + col) % 2 == 0;
-
-                    HashSet<int> possiblePositions = ConvertHashSetPositionToHashSetInt.Convert(pieces[positionInTheArray].PossibleMovement(pieces, turnCount));
 
                     if (id == positionInTheArray)
                     {

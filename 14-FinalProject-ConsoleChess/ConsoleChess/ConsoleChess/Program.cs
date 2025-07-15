@@ -29,7 +29,7 @@ namespace ConsoleChess
 				}
 
 				//Verificar se está em posição de check, se sim tem que defender
-				if (VerifyCheck.verifyCheck(pieces, turnCount))
+				if (Verify.VerifyCheck(pieces, turnCount))
 				{
 					System.Console.WriteLine("Está em cheque");
 				}
@@ -204,7 +204,7 @@ namespace ConsoleChess
 				int columnNumber = char.ToLower(row)  - 'a' + 1;
 				int rowNumber = column - 48;
 
-				if (pieces[(initialRow - 1) * 8 + (initialColumn - 1)].PossibleMovement(pieces, turnCount).Contains(Position.PositionInTheList(new Position(rowNumber, columnNumber))))
+				if (pieces[(initialRow - 1) * 8 + (initialColumn - 1)].PossibleMovementAfter(pieces, turnCount).Contains(Position.PositionInTheList(new Position(rowNumber, columnNumber))))
 				{
 					return true;
 				}
