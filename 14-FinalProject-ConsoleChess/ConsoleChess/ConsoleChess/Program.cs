@@ -19,22 +19,27 @@ namespace ConsoleChess
 				string color;
 				if (turnCount % 2 != 0)
 				{
-					System.Console.WriteLine($"Turno {turnCount}: É a vez das Brancas");
+					System.Console.WriteLine($"Turn {turnCount}: White's turn");
 					color = "White";
 				}
 				else
 				{
-					System.Console.WriteLine($"Turno {turnCount}: É a vez das Pretas");
+					System.Console.WriteLine($"Turn {turnCount}: Black's turn");
 					color = "Black";
 				}
 
-				//Verificar se está em posição de check, se sim tem que defender
-				if (Verify.VerifyCheck(pieces, turnCount))
+				if (PossibleMoves.PossibleMovesSet(pieces, turnCount).Count == 0)
 				{
-					System.Console.WriteLine("Está em cheque");
+					System.Console.WriteLine("Checkmate!");
+					break;
 				}
 
-				System.Console.WriteLine("Escolha a posição da peça que deseja movimentar (Ex.: e4): ");
+				if (Verify.VerifyCheck(pieces, turnCount))
+				{
+					System.Console.WriteLine("Check");
+				}
+
+				System.Console.WriteLine("Select the piece position you want to move (e.g., e4): ");
 				string piecePosition;
 				int positionInTheArray;
 				int oldRow;
@@ -52,24 +57,22 @@ namespace ConsoleChess
 					}
 					Console.Clear();
 					Screen.ShowBoard(pieces);
-					System.Console.WriteLine("Opção invalida!\nEscolha a posição da peça que deseja movimentar (Ex.: e4): ");
+					System.Console.WriteLine("Invalid option!\nSelect the piece position you want to move (e.g., e4): ");
 				}
 
 				Console.Clear();
 				Screen.ShowBoardAfter(pieces, positionInTheArray, turnCount);
-				System.Console.WriteLine("Agora selecione a casa que deseja avançar (Ex.: e4).\nPara voltar digite 'voltar': ");
+				System.Console.WriteLine("Now select the square to move to (e.g., e4).\nType 'back' to go back: ");
 
 				string futurePosition;
 				int futurePositionInTheArray;
 				int futureColumn;
 				int futureRow;
 
-				//Verificar se mexer a peça não vai resultar em um check descoberto
-
 				while (true)
 				{
 					futurePosition = Console.ReadLine()!;
-					if (futurePosition.ToLower() == "voltar")
+					if (futurePosition.ToLower() == "back")
 					{
 						break;
 					}
@@ -81,7 +84,7 @@ namespace ConsoleChess
 
 						if ((futureRow == 8 || futureRow == 1) && pieces[positionInTheArray].Name == "P")
 						{
-							System.Console.Write("Promoção do peão.\n1 - Dama\n2 - Bispo\n3 - Cavalo\n4 - Torre\nEscolha a opção desejada: ");
+							System.Console.Write("Pawn promotion.\n1 - Queen\n2 - Bishop\n3 - Knight\n4 - Rook\nSelect an option: ");
 							string promotionOption = Console.ReadLine()!;
 							while (true)
 							{
@@ -102,7 +105,7 @@ namespace ConsoleChess
 									default:
 										Console.Clear();
 										Screen.ShowBoardAfter(pieces, positionInTheArray, turnCount);
-										Console.Write("Opção inválida\nPromoção do peão.\n1 - Dama\n2 - Bispo\n3 - Cavalo\n4 - Torre\nEscolha a opção desejada: ");
+										Console.Write("Invalid option\nPawn promotion.\n1 - Queen\n2 - Bishop\n3 - Knight\n4 - Rook\nSelect an option: ");
 										promotionOption = Console.ReadLine()!;
 										continue;
 								}
@@ -144,13 +147,12 @@ namespace ConsoleChess
 						pieces[futurePositionInTheArray].InitialPosition = false;
 						pieces[futurePositionInTheArray].TurnOfLastMovement = turnCount;
 
-						//Verificar check-mate
 						turnCount++;
 						break;
 					}
 					Console.Clear();
 					Screen.ShowBoardAfter(pieces, positionInTheArray, turnCount);
-					System.Console.WriteLine("Opção invalida!\nAgora selecione a casa que deseja avançar (Ex.: e4).\nPara voltar digite 'voltar': ");
+					System.Console.WriteLine("Invalid option!\nNow select the square to move to (e.g., e4).\nType 'back' to go back: ");
 				}
 			}
         }

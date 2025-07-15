@@ -14,9 +14,9 @@ public static class PossibleMoves
         {
             foreach (Piece piece in board)
             {
-                if (piece.Color == "White" && piece.PossibleMovement(board, turnCount) != null)
+                if (piece.Color == "White" && piece.PossibleMovementAfter(board, turnCount).Count != 0)
                 {
-                    result.Add(Position.PositionInTheList(piece.Position), piece.PossibleMovement(board, turnCount));
+                    result.Add(Position.PositionInTheList(piece.Position), piece.PossibleMovementAfter(board, turnCount));
                 }
             }
 
@@ -25,9 +25,9 @@ public static class PossibleMoves
         {
             foreach (Piece piece in board)
             {
-                if (piece.Color == "Black" && piece.PossibleMovement(board,turnCount) != null)
+                if (piece.Color == "Black" && piece.PossibleMovementAfter(board,turnCount).Count != 0)
                 {
-                    result.Add(Position.PositionInTheList(piece.Position), piece.PossibleMovement(board,turnCount));
+                    result.Add(Position.PositionInTheList(piece.Position), piece.PossibleMovementAfter(board,turnCount));
                 }
             }
         }
